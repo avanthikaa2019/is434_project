@@ -1,0 +1,8 @@
+An information security company has warned about malicious Android smartphone applications that steal and transmit personal data, such as contact information stored in users' address books.
+The company said these types of free applications have been downloaded up to 270,000 times, indicating that potentially millions of people have had their personal information stolen.
+An Internet security expert said, "It's possible that creating applications that transmits users' information without consent can be considered a crime under the Penal Code, which criminalises the creation of computer viruses."
+According to NetAgent Co., a Tokyo-based information security company, the applications were disguised as video tutorials for popular games on Google Inc.'s Android operating system.
+The applications were named by affixing the expression "the Movie" to existing game titles. The company found at least 16 of these applications.
+The company's analysis revealed that when these applications are activated, they can automatically transmit not only a person's telephone number, their e-mail address and the phone's ID number, but also the personal names, telephone numbers and e-mail addresses of contacts stored on the smartphone's address book.
+Although the creators of these applications aren't well known, the stolen information was sent to the same domestic server. The applications were deleted on Friday.
+When users download the malicious applications, a message pops up on the display screen requesting permission for access to contact information.

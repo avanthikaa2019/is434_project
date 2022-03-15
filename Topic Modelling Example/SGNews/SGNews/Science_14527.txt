@@ -1,0 +1,3 @@
+Scientists from the Massachusetts Institute of Technology (MIT) are developing computers that can recognise facial expressions.
+The technology enables computers to identify basic emotions such as like, dislike and confusion, by taking information about people's faces via camera and analysing how they move over time.
+It can be applied in many ways, such as gathering information on people's responses to advertisements or helping people with autism read expressions better, said researchers.

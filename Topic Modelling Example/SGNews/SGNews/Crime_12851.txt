@@ -1,0 +1,11 @@
+A man found guilty of misuing the Marina Bay Sands (MBS) integrated resort's computer network was sentenced to two weeks' jail and fined $30,000 on Tuesday.
+36-year-old Leslie Liew Cheong Wee was found guilty of six charges under the Computer Misuse Act after a 14-day trial.
+The Straits Times reported today that the Malaysian had secured access to the computer system without the MBS construction manager's consent.
+On one occasion, the unauthorised access caused an hour-long power outage at the casino's northern section on May 12, 2010.
+Liew, who is a Singapore permanent resident, was then employed as an engineer by sub-contractor Power Automation to set up and install the power monitoring control system at MBS.
+He was part of the company's project team which was setting up a mock-up for the MBS power management control system.
+In court, the prosecution showed that Liew intentionally accessed the power monitoring control system remotely without authority.
+He had no reason to enter the system on the days of the accesses from his Teck Whye Lane flat, the prosecution flat.
+Liew's defence to the first charges committed on May 9, 10 and 11 was that he was not required to seek permission to enter the system as he was put on the project and had authority to access it.
+He said the sixth occasion on which he entered the system was a mistake.
+The MBS power management logs showed that Liew had caused the power outage at 12.20am on May 12. Lew is appealing against conviction and sentence.

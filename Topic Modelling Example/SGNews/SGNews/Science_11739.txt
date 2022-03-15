@@ -1,0 +1,16 @@
+TEHRAN - Iran claimed on Tuesday to have come up with an anti-virus programme against "Flame," extraordinarily sophisticated malware that hit its servers and deployed various spying modules, apparently at the behest of a foreign power.
+"Tools to recognise and clean this malware have been developed and, as of today, they will be available for those (Iranian) organisations and companies who want it," Maher, a computer emergency response team coordination centre in Iran's telecommunications ministry, said on its website.
+Flame, a crafty volume of code that can steal files, take screenshots, activate computer microphones to record conversations, log keystrokes and carry out other activities controlled remotely, was identified this week by leading anti-virus firms around the world.
+Maher said Flame was undetectable by 43 different anti-virus programmes it tested, forcing it to come up with its own defence after "months of research." It did not give details of how its Flame-killer worked.
+Iran appeared to be the main target of the worm-like malware, though it was also detected in other regions, including Israel and the Palestinian Territories, Sudan and Syria.
+The virus hit Iran's oil ministry servers in April, forcing authorities to shut them down.
+"Experts from Maher... have said that the theft of large volumes of data in recent weeks was caused by Flame," the Fars news agency reported.
+Anti-virus experts said Flame was many times more sophisticated than Stuxnet, a virus that in 2010 infected computers running Iran's sensitive uranium enrichment, knocking out hundreds of centrifuges, or a cousin to Stuxnet, Duqu, which struck in 2011.
+The staggering complexity of all three of these viruses suggested a nation-state was responsible, with suspicion falling on the United States or Israel.
+Flame is "actively being used as a cyber weapon attacking entities in several countries," a top Russian anti-virus software firm, Kaspersky Lab, said in a statement late on Monday, describing its purpose as "cyberespionage."
+"The complexity and functionality of the newly discovered malicious programme exceed those of all other cyber menaces known to date," it added. Iran's foreign ministry spokesman, Ramin Mehmanparast, hinted that Israel could be behind the attack.
+"It's in the nature of some countries or illegitimate regimes to produce viruses and hurt other countries. We hope that these viruses are knocked out and no one gets hurt," he told reporters in his weekly briefing.
+Israel has not admitted involvement, although the country's vice prime minister, Moshe Yaalon, said on Tuesday that "for anyone who sees the Iranian threat as significant, it is reasonable that he would take different steps, including these (virus attacks), in order to hobble it."
+Yaalon boasted that Israel was "technologically rich" and thus able to exploit "all sorts of possibilities."
+Israel and the United States are intent on stopping Iran from advancing its nuclear programme to the point where it could quickly make atomic weapons.
+Iran says it is the victim of a covert war by those two countries that has included the Stuxnet attack and the assassinations of several of its nuclear scientists. It insists its atomic activities are exclusively peaceful.

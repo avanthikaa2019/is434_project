@@ -1,0 +1,4 @@
+The ZTE Grand X LTE (T82), recently unveiled at CommunicAsia 2012, is the Chinese company's first LTE smartphone to use a single-chip model.
+The Qualcomm MSM8960 single-chip gives this flagship phone the edge in speed and energy efficiency compared to most of its competition on the market.
+Operating on Android 4.0, aka the Ice Cream Sandwich, the T82 is powered by a 1.5 GHz dual-core CPU and has an eight-megapixel camera that is capable of shooting video in 1080p.
+With a maximum download speed of 100Mbps, this buttonless phone is slated for fourth-quarter release here.

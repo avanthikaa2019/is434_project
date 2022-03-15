@@ -1,0 +1,17 @@
+MANILA, Philippines - As Philippine and Chinese vessels remain locked in a standoff over the Scarborough Shoal, a cyber war broke out leaving websites defaced in both Asian countries.
+A day after a Philippine university website was brought down Friday by supposedly Chinese hackers claiming "Huangyan Island (Scarborough Shoal) is Ours!", Filipino hactivists fought back by vandalizing several Chinese websites.
+"Anonymous #OccupyPhilippines" attacked the China University Media Union site, replacing its homepage content with a digitized image of a Guy Fawkes mask, which symbolizes global protest hacking group Anonymous. Their message: "Chinese government is clearly retarded. Scarborough Shoal is ours!"
+On Friday, hackers attacked the official website of the University of the Philippines System, forcing the state university to temporarily bring it down.
+A screenshot of the defaced website showed a map with Chinese script that highlighted islands in the West Philippine Sea being claimed by the Philippines and China.
+Below the map was a caption repeatedly posted, "We come from China! Huangyan Island is Ours!"
+Huangyan is the Chinese name for the Scarborough Shoal, where the two countries have had vessels stationed for nearly two weeks in a standoff to assert their rival claims to the area.
+The UP website was back online on Saturday.
+Foreign Affairs spokesman Raul Hernandez suggested the hacking could be linked to the standoff.
+"These computer hacking(s) are sometimes&hellip; done by some people who are passionately affected and involved in the discussion," he told reporters.
+"There has to be an investigation first to find out who exactly did this."
+China had been accused of a coordinated cyber hacking of some of the world's biggest companies and foreign government agencies. Beijing vehemently denied this.
+The Philippines, meanwhile, has been tagged one of the world's top sources of a dangerous kind of cyber attack designed to take down entire computer networks and shut down key consumer services.
+The latest report by Russian Internet security firm Kaspersky Labs showed the Philippines ranking 13th on a list of 23 countries where "distributed denial of service" or DDOS attacks originated in 2011.
+A DDOS attack makes a computer or network unavailable to its users by hackers in control of several devices. This is done by flooding a server with more network traffic than it can handle.
+As a consequence, the server is prevented from carrying out its normal functions and, in some circumstances, crashes completely.
+The Philippines was one of four Southeast Asian countries to make the list, the others being Malaysia which ranked 5th, Indonesia 18th and Vietnam 19th. Over 90 per cent of all DDOS attacks came from the 23 countries on the list.

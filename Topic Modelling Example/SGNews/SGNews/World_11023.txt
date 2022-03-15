@@ -1,0 +1,18 @@
+PARIS - A vaccine which revives a promising but long-abandoned path to thwart Alzheimer's disease has cleared a key safety hurdle in human trials, researchers say.
+In a small-scale test, the formula was found to be safe and primed the body's frontline defences against protein deposits in the brain that are associated with the catastrophic disease.
+Swedish doctors report the results in Wednesday's issue of the journal Lancet Neurology, saying that the way is now open for wider trials.
+The prototype vaccine, called CAD106, is a new exploration of traditional vaccine engineering.
+In this approach, the pathogen that causes a disease is used to teach the immune system to identify an intruder and attack it.
+In Alzheimer's, one of the enemies is a toxic protein called amyloid beta peptide, which accumulates in plaques in the brain, although exactly how it works remains unclear.
+A decade ago, doctors launched a first attempt at an amyloid beta vaccine, called AN1792.
+But they were forced to abandon it at the second of the three-phase trial process after six per cent of the volunteers fell ill with meningoencephalitis, an inflammation of the brain.
+The suspected reason was that AN1792 activated white blood cells called T cells that attacked the brain tissue.
+The new vaccine uses a smaller fragment of the protein and combines it with a booster, called an adjuvant, intended to prevent T-cell activation.
+After lengthy trials in the lab, a team led by Bengt Winblad of the Karolinska Institutet's Alzheimer's Disease Research Centre, tested the vaccine on 46 volunteers aged 50 to 80, diagnosed with mild to moderate Alzheimer's.
+A "control" group of 12 patients received a harmless formula, called a placebo, as a comparison.
+The group was studied over 52 weeks and given a follow-up examination two years later.
+Eighty-two per cent of the patients who received CAD106 developed antibodies, a sign that the immune defences had responded to the dangerous protein.
+Overall, nine patients had episodes of ill health during the trial, but investigations showed these were unrelated to the drug, and none entailed meningoencephalitis.
+The next step after this Phase 1 safety trial should be a larger test, possibly with modifications of the dose, to see if the vaccine works, says the study.
+Around 26 million people around the world have Alzheimer's, which remains an incurable and progressive disease characterised by memory loss and dementia.
+The toll by 2050 is likely to be 115 million, according to figures cited in the journal.

@@ -1,0 +1,10 @@
+TAIPEI - Taiwan's HTC Corp. said yesterday that it will offer repair services for users with Wi-Fi connectivity problems in its One X flagship smartphone following media reports that some consumers have complained about the issue.
+According to recent reports, some users have said on Internet forums that they have found a bug that prevents the One X from reliably connecting to Wi-Fi signals.
+The affected users ascribed the problem to a hardware issue rather than a software issue because if they hold the phone in a certain way, they can obtain an improved signal, the reports said.
+In an email reply to CNA, HTC acknowledged the problem and apologized for any inconvenience caused to users while it conducts further investigation.
+"After investigating isolated reports of Wi-Fi connectivity issues in the HTC One X, we have identified a fix that strengthens the area of the phone around the Wi-Fi antennae connection points," the Taoyuan-based company said.
+"While many customers have not experienced any problems with signal strength, we have taken immediate steps to implement a solution in our production process to prevent this issue from happening in the future," it added.
+HTC is not the only big name to have faced antenna problems in recent years.
+In 2010, Apple Inc. found itself with a similar problem with its iPhone 4.
+Dubbed "antenna-gate," the late Apple CEO Steve Jobs described the issue as "a challenge for the entire industry," saying that every phone has weak spots.
+In February this year, Apple agreed to compensate iPhone 4 users over the antenna issue, offering them a US$15 (S$19) refund or a free bumper case, but only for customers in the United States.

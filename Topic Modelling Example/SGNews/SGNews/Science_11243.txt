@@ -1,0 +1,11 @@
+TAIPEI - Morris Chang, the father of Taiwan's chip sector, once shrugged off Samsung Electronics' entry into the foundry business-making private-label semiconductors under contract for others.
+Now, he calls the South Korean group the industry's "700-pound gorilla" with formidable financial firepower.
+Samsung's rise highlights the rapid changes in one of Asia's top industries - where speed, creativity and deep pockets count in a race to make chips smaller but smarter.
+This is to keep up with a consumer shift from computers to mobile gadgets such as Apple's iPhone and iPad.
+While United States company Intel remains the dominant player, with as much as a two-year lead in process technology, the chip industry is going through its biggest shake-out in a decade, and the less well-known contract makers, or foundries, are set to emerge strongest.
+Once-dominant Japanese companies have been battered by rising costs and the investment clout of Samsung and Mr Chang's Taiwan Semiconductor Manufacturing Co (TSMC).
+The Japanese have the technology, but the likes of Elpida Memory, a maker of DRAM memory chips for computers, and Renesas Electronics Corp, the world's leading maker of microcontroller chips for cars, just don't have the money to plough into the constant plant and technology upgrades.
+"As technology moves forward, companies simply can't afford to individually build advanced fabs. The foundry model of aggregation is very good for addressing the cost issue," said Mr Len Jelinek, director and chief analyst of semiconductor manufacturing at research company IHS iSuppli.
+While the word conjures up images of red-hot steel and pounding metal, a chip-industry "foundry" is a company that makes chips for others in large, modern and ultra-clean plants, or fabs, that cost billions of dollars to build.
+IHS predicts revenue from the foundry business will jump to US$42 billion (S$54 billion) by 2015 from around US$30 billion this year, pushing up its share of the total chip industry to 10.8 per cent from 9.1 per cent.
+The world's top foundries are Taiwanese: TSMC and United Microelectronics.

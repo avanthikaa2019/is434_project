@@ -1,0 +1,25 @@
+Apple has recently presented a design award to a Chinese team for the best apps on the market for their machines.
+Dalian-based Bibobox Studio has emerged as the first Chinese company to receive an award at the annual Apple Design Award since its inception in 1996.
+The award is given to developers that match Apple's own philosophy of good design, innovation and state of the art hardware.
+Bibobox, consisting mainly of a group of Dalian Nationalities University students, won the student developer award for their 300-page interactive storybook called Little Star. It features a story of five friends on their journey to catch stars.
+On its official website, Apple explains the reason for presenting the award - Little Star is "a great example of the results students can produce on iOS" (Apple's mobile operating system that powers iPhones and iPads).
+"We didn't know we won. In fact, my teammate Maggie and I were invited to San Francisco just to attend Apple's World Wide Developers Conference (WWDC)," says Liu Bo, the chief director of Bibobox. "We attended the bulk of the first day's sessions and seminars and then we were told that we should attend the award ceremony.
+"When our name was announced, the first actually, I was shocked."
+Apple gave out 12 awards this year at the WWDC.
+Winners, such as Bibobox, are given an inscribed cube made from the same material as an Apple MacBook with an Apple logo that lights up on touch. Liu says that Bibobox also received a prize package of a new MacBook Air, an iPhone, and an iPad.
+Little Star, a storybook for iPad, helps children learn how to think creatively and interact with stories rather than reading straight forwardly.
+"Our design philosophy is very simple. We want children to think outside the box to reach an answer," Liu says. "The point of our book is to provide children with methods and ideas for them to think creatively by themselves."
+Liu says the app was developed from an education and moral philosophy, not to make money. Surveying and studying multiple classrooms and schools acrossLiaoningprovincial capitalDalianfor over a year, Liu says the team decided to work on a children's education app.
+Unlike the famous story of Rovio who created their world famous Angry Birds app from the characters first, Liu says that the first direction Bibobox took with their project was to see what good they could do for children.
+And because the team was made up mostly of students, Bibobox thought of creating a children's book that was unlike any other before - a modern take on the pop-up book.
+"We wanted to design something that was good, that was ethically and morally good and not just for quick cash," Liu says. "We wanted to design and develop something that mattered and we looked into the problems that affected children's education inChina."
+Citing problems with the rote learning style of Chinese education, Liu and his team found their direction in their freethinking app.
+In Little Star, children are able to interact with the story in many ways including touching the screen to reveal different characters and events as well as using the iPad's built-in accelerometer to shake the titular stars out of the sky.
+Liu says Bibobox chose to use the iPad and iOS to develop their app because the research they conducted showed that iOS was a safer environment for children. On top of that, their research also discovered interesting nuggets about children's health.
+"One of the things everyone knows is that looking at a screen for long periods of time is detrimental to your health. This is particularly true with children as their eyes are still developing," Liu says. "We realized from the get go that while we want children engaged in our app, we need to be mindful of their health.
+"So we designed the app for the iPad and added elements that required a child to lift or move the iPad; and, because the iPad is heavy a child would get tired and rest a little before playing again."
+According to Liu, winning the Apple's award motivates him and Bibobox to work harder on creating top of the line apps for children.
+Currently, the studio is working on a spiritual sequel to Little Starthat will be released in July and a series of language training apps to teach word etymology.
+Ultimately, Liu says, Bibobox works hard as they are investing on something for the next generation.
+"I need to make it clear that we aren't just making games, and even if we are, it is based on principles because we are making products for children," Liu says. "A lot of developers inChinawork on games and apps that are either addictive or not creating anything of value for children.
+"But don't get me wrong. They have to make ends meet, but when we're talking about the future, we have to give the best to our children."

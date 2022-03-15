@@ -1,0 +1,35 @@
+If it weren't for one major feature, the Nikon D3200 would be considered an &shy;evolutionary upgrade to the D3100 - after all the size is about the same, as is the number of autofocus points and the general handling characteristics.
+However, what Nikon has done with the D3200 is to jam a 24-megapixel APS-C sensor into this entry-level model, effectively making it the highest megapixel count APS-C DSLR in the Nikon range.
+It beats out the D7000, which had a 16-megapixel sensor, although the full-frame D800 still trounces the D3200 with its whopping 36-megapixel sensor.
+And you thought the megapixel wars were over ....
+Anyway, what you get with the D3200 is much the same as what you got with the D3100, i.e. the camera body and 18-55mm f/3.5-5.6 kit lens.
+The elephant in the room is the 24-megapixel image sensor of the D3200. This gives the new camera quite a jump over the earlier D3100 with its 14-megapixel image sensor.
+Although practically, I doubt most users of the D3200 will fully appreciate the resolution gained versus the inevitable increase in picture file sizes due to the extra pixel count.
+The other changes are subtle, except for the LCD on the back which is still 3in in size but the pixel count has risen drmatically from 230,000 to 921,000 dots, making it a lot nicer to look at and capable of displaying more detailed images.
+Some buttons on the back of the camera and on the top plate have been moved around and redesigned. Gone is the combination live-view switch and video record button. In its place is a simple live view button, while the video recording has been moved to another button; this is on the top plate, just behind the shutter release.
+It sounds a bit weird to move it there, but it's more practical for the record button to be just behind the shutter release. This makes it easier to start and stop video recordings without shaking the camera, compared with the button being on the camera back.
+And it's in the area of video recording that the D3200 has had the biggest bump in specifications. Not only do you now get an option for 1080p 30fps &shy;recording, but you also get a 3.5mm stereo microphone input for plugging in an external microphone, and an audio level bar is visible in live view during recording.
+There is no option for plugging in a pair of earphones for live audio &shy;monitoring, however.
+There is also a video-quality setting now, with the user given the option to choose either normal or high-quality video recording.
+Oh yes, the D3200 can also &shy;optionally accept a relatively cheap WU-1a WiFi &shy;adaptor, which will, amongst other things, allow the use of an Android smartphone or tablet to receive a live view image or trip the shutter remotely.
+Apparently, iOS support for this is coming soon.
+Unfortunately, we didn't get the WU-1a adaptor with our review unit, so we couldn't test out this rather cool feature.
+Users of the Nikon infrared wireless remote control will be happy to note that not only is there an infrared receiver on the front of this camera, but there is also one on the back, making it easier for, say, people like me who use the remote from behind the camera while it is sitting on a tripod to prevent camera shake.
+In the course of my review, I handed the D3200 to several people to see whether they liked the size and weight of the camera, and I have to say most people liked it, especially if I fitted the AF-S Nikkor 35mm f/1.8G DX lens on it.
+While small, the handgrip seemed to be comfortable even for people with relatively big hands, although of course, your last two fingers will inevitably be hanging off the bottom of the camera.
+With the 18-55mm kit lens, the camera is still as light and easy to hold, but not quite as compact as it is with the 35mm lens fitted.
+In use, the controls are as always easy to understand, although you do have to press the "i" button on the back (twice, in fact) if you want to change ISO, white balance, &shy;autofocus or image quality settings.
+Expanding on the novice "Guide" mode found in its predecessors, the D3200 now sports a more extensive mode, which takes another step towards trying to get novice users to understand complicated settings.
+The Guide mode here now more clearly shows the effects that certain settings have on the image. For example, the camera will show you that changing an &shy;aperture &shy;setting will affect how sharp or blur the background gets. It does this with an example photo where the &shy;background &shy;progressively blurs or &shy;sharpens as you fiddle with the aperture setting dial.
+So does the 24-megapixel sensor bring you more detail? Well yes, but &shy;perhaps not as much as you'd think.
+Comparing 24-megapixel shots from the D3200 to 16-megapixel images taken with a D7000 (using the same lens on both cameras) there is indeed a little bit more resolution and detail gained over the D7000, but I'd have to say that this is not enough to really shout about.
+Metering on the D3200, however, seems to trend towards slight overexposure &shy;compared to that on the D7000. I found that the &shy;metering on the D3200 tended to &shy;overexpose more than I liked in difficult lighting &shy;situations, and I found myself dialing in about -0.7 EV of exposure compensation in some situations just to get the exposure spot on.
+ISO performance is comparable to that of the D7000, with the noise levels about the same at most ISO settings - although the D3200 seems a little better at removing &shy;colour noise than the D7000 is.
+This means you get usable ISO settings from ISO 100 to 800, with a hint of noise at ISO1600.
+From ISO 3,200 and up, the D3200 is &shy;starting to show stronger noise reduction and loss of detail, although colour noise is still quite well controlled compared with the D7000's capability in this respect.
+On the whole, battery life was &shy;reasonably good. You probably will be able to use the camera through a heavy day of shooting without needing to recharge, unless you shoot a lot of video which tends to suck up power faster than when shooting stills.
+So how does the D3200 stack up? As an entry-level camera, it's got quite a great number of features, with great improvements in video but less so when it comes to taking stills.
+The 24-megapixel image sensor definitely does capture more detail with good lenses, although I would have thought that for this segment of the market, Nikon would have been better off keeping the megapixel count at 14- or 16-megapixels and instead look to improving high ISO performance.
+Be that as it may, at a list price of RM2,548 with kit lens, you are getting a lot of value for the money, and some welcome &shy;improvements over the D3100, most notably for video shooting. Plus, there's that nifty WU-1a optional WiFi adaptor.
+Pros: 24-megapixel sensor in an entry-level DSLR; video shooting greatly improved over D3100's capability, WU-1a WiFi adaptor is a useful piece of kit.
+Cons: Perhaps 24-megapixels might be overkill for entry-level users.

@@ -1,0 +1,16 @@
+SEATTLE - Microsoft's new phone software will be built on the same core as its upcoming PC and tablet software, bringing the company one step closer to unifying its Windows franchise across a full range of screens that are revolutionising computing.
+The world's largest software company, which is running to keep up with Apple's iPhone and Google's Android devices, said the common core means customers will have a greater choice of phones and applications, and be able to switch between multiple machines more easily.
+The move follows the launch of the Surface tablet on Monday, Microsoft's effort to join the fast-growing mobile-computing market and to tackle Apple's iPad head-on.
+At an event in San Francisco on Wednesday, Microsoft officially announced its new phone software, called Windows Phone 8, and said phones running on the software would hit the market this autumn.
+The new phones - made by handset makers Nokia, Samsung Electronics, HTC and Huawei on Qualcomm dual-core chips - will feature voice commands, Skype calling, near-field communication (NFC) for wireless transactions, and built-in maps for Global Positioning System directions.
+Microsoft's voice-recognition feature goes beyond Apple's rival service, Siri, by allowing users to issue commands to apps, not just the phone's core operating system.
+The new software will support NFC transactions - in which the user taps a reader to make a purchase - but Microsoft is leaving it to independent software makers to write the actual applications controlling the process, meaning that it will not be a direct competitor to the Google Wallet service for Android phones.
+Microsoft's new phones will have an updated, customisable start screen in Microsoft's new Metro style, which centres on touchable "tiles", or colourful squares. They represent people, applications and services which are updated in real time - for example, showing Facebook posts or new e-mail.
+The Metro style is also the interface for Microsoft's Windows 8 operating system - designed to run on both tablets and traditional PCs - which Microsoft is expected to launch around October.
+Microsoft's Windows phones have been well-reviewed, but have not caught on in the market, partly due to the fact that there are only 100,000 or so apps available, compared to around 500,000 for both Apple and Android devices.
+Microsoft is hoping that a common core between its PC and phone software will make it easier for developers to create apps for both, with minimal adjustments.
+The company said current devices, which run on Windows Phone 7.5, will not be able to update to Windows Phone 8. Windows Phone 7.5 users will be offered an update that includes the new software's start screen but excludes other features.
+That could dampen sales of Windows Phone 7.5 devices for the next few months, until the new crop of phones appears in stores.
+Microsoft has invested billions of dollars in phones - including a deal with Nokia to use its software - in an attempt to break into the market.
+So far, it has had little impact, capturing only 2 per cent of the world's smartphone market last quarter, according to tech-research firm Gartner.
+Google's Android leads the market with 56 per cent, followed by Apple with 23 per cent.

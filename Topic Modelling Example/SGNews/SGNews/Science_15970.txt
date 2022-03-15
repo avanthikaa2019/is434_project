@@ -1,0 +1,10 @@
+TOKYO - Austrian and Japanese researchers on Wednesday unveiled solar cells thinner than a thread of spider silk that are flexible enough to be wrapped around a single human hair.
+The thin-film device, comprising electrodes on a plastic foil, is about 1.9 micro-metres thick, a tenth the size of the thinnest solar cells currently available, the researchers said.
+One micro-metre is one millionth of a metre (3.3 feet).
+"The total thickness of this device is less than a typical thread of spider silk," the researchers said in a report carried by online science journal Nature Communications.
+"Being ultra-thin means you don't feel its weight and it is elastic," said one of the researchers, Tsuyoshi Sekitani from the University of Tokyo.
+"You could attach the device to your clothes like a badge to collect electricity (from the sun)... Elderly people who might want to wear sensors to monitor their health would not need to carry around batteries," Sekitani told AFP.
+The research was done jointly by Martin Kaltenbrunner, Siegfried Bauer and other researchers from Johannes Kepler University of Austria as well as Sekitani and other contributors from University of Tokyo.
+Sekitani said it was possible to make the cells bigger.
+"Power generation by solar cells increases with their size. As this device is soft, it is less prone to damage by bending even if it gets bigger," he said.
+Sekitani said the team hoped to increase the rate at which the device converts sunlight into electricity and put it to practical use in around five years.

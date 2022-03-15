@@ -1,0 +1,8 @@
+SEATTLE - Microsoft Corp has brushed off an offer by Motorola, the phone maker bought by Google Inc, to settle patent disputes with Motorola that are threatening to halt imports of Android devices and Xbox game consoles into the United States.
+The patents at issue relate to Microsoft technology called ActiveSync, which updates calendars automatically on some Android phones.
+Microsoft is demanding royalties from all companies using Google's Android system in their devices, and has settled with most major manufacturers except Motorola.
+is demanding royalties on some of its own video and wireless technology used in Microsoft's Xbox game console and the Windows operating system.
+"While we welcome any good faith settlement effort, it's hard to apply that label to a demand that Microsoft pay royalties to Google far in excess of market rates, that refuses to license all the Microsoft patents infringed by Motorola, and that is promptly leaked to the press," said Horacio Gutierrez, Microsoft's deputy general counsel, in an e-mailed statement.
+According to Microsoft, Motorola has offered to pay Microsoft 33 cents for each Android phone using ActiveSync, and asked for a royalty of 2.25 per cent on each Xbox and 50 cents per copy of Windows for using its patents.
+Last month the International Trade Commission recommended an import ban on infringing Android devices and Xbox consoles unless the patent issues were settled.
+Representatives of Motorola and Google did not immediately respond to requests for comment.

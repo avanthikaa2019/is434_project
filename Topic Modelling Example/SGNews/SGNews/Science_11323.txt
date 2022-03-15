@@ -1,0 +1,23 @@
+Authorities are discovering an increasing number of emulator servers, through which Internet users can illegally play pirated copies of popular online games.
+Unidentified people have copied the programs of online game software and enabled Net users to play the pirated games for free by accessing the emulator servers. In the case of one popular title, "Ragnarok Online," game operator GungHo Online Entertainment Inc. has confirmed at least 1,000 illegal accesses.
+The Tokyo-based company has filed a criminal complaint with the Metropolitan Police Department against the operator of the emulator server, on suspicion of violation of the Copyright Law.
+The MPD is investigating the allegation.
+Emulator servers offer online game services without permission from copyright holders, using unlawfully copied software. Certain websites teach would-be users how to access emulator servers.
+There is also emulator software that allows Internet users to download pirated copies of home-use video games.
+When a user reaches the emulator server for Ragnarok Online after finding the site through Internet bulletin boards, messages such as "Welcome to our server" or "We welcome newcomers" appear.
+Visitors see the same game characters as they would on the genuine site, and the scenery and structures behind the characters are also exactly the same.
+However, users are given 6,000 times more virtual currency when they start the game than they would be given on the genuine site.
+As a result, emulator users can immediately buy virtual weapons and protective gear that they can only buy at higher levels in the real game. A recent visit to the emulator site showed 71 users were accessing it.
+"It's one of the game's joys that a player makes characters grow stronger step by step," a GungHo official said. "Piracy spoils settings that professional programmers created with extreme care for players' enjoyment."
+Operators of such emulator servers obtain the programs of genuine game software, launch emulator servers and let Internet users play the pirated games free of charge. They also arrange the programs so players can progress faster or obtain items more easily than on genuine sites.
+Games on emulator servers sometimes become popular due to these advantages.
+The more popular genuine game sites there are, the more emulator servers appear. According to GungHo, there were already emulator sites in operation when it opened its Ragnarok Online service in Japan in 2002. In 2008, the company confirmed the existence of more than 70 emulator servers in the nation.
+In November and December 2008, the company sent letters of warning to operators of the emulator servers via Internet providers and other means.
+Though the number of emulator sites temporarily decreased, it eventually rose again. As of February this year, about 1,000 Internet users played through at least 20 such servers.
+Sega Corp., a Tokyo-based firm that operates other online games, began noticing emulator servers for four of its game titles around 2003.
+The company took action each time, such as demanding the operators stop their online services.
+But a Sega official said: "Even if we close emulator sites one after another, new emulator sites appear. It's like a cat chasing mice."
+An official of NEXON Co., another Tokyo-based firm operating popular online games, said: "Our company's intellectual property rights have been infringed upon. It's a problem."
+The revised Unfair Competition Prevention Law was enacted in December last year mainly to cope with problems of "majikon," devices to enable pirated software to be used with portable video game machines. The law stipulates that providing the devices to others can bring up to five years in prison or a fine of up to 5 million yen.
+According to the Economy, Trade and Industry Ministry, the emulator servers are also suspected to be in violation of the law.
+The Cultural Affairs Agency said the emulator servers may infringe rights to broadcast copyrighted products under the Copyright Law. The law prohibits transmission of copyrighted products on the Internet without permission from copyright holders.

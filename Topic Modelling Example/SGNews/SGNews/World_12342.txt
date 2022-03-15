@@ -1,0 +1,6 @@
+WASHINGTON - One or more unauthorized users gained access to the inner workings of a website run by the US Justice Department, a department spokeswoman said on Monday after the hacker group Anonymous said they were behind the incident.
+The hackers accessed a server that operates the Bureau of Justice Statistics' website, the spokeswoman said.
+The bureau is responsible for collecting and analyzing data about crime - including computer security incidents - from throughout the United States.
+The department spokeswoman declined to say when the alleged unauthorized access occurred or what data the hackers might have obtained.
+The department is looking into whether the unauthorized users broke criminal laws, she said.
+Online statements attributed to Anonymous said they were responsible for the security breach and that the files they obtained include emails.

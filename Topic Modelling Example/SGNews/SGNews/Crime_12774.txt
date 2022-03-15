@@ -1,0 +1,14 @@
+SINGAPORE - From home, a Malaysian computer engineer hacked into the Marina Bay Sands (MBS) computer network between May 9 and May 12 of 2010, causing a partial blackout.
+Leslie Liew Cheong Wee, 36, had quit on April 30 that year and was to leave the company on May 14.
+Furthermore, Liew had been informed by his project manager on May 3 that he was henceforth barred from the MBS site.
+It was submitted before the Court that that Liew was part of a project team for Power Automation.
+Power Automation is a subcontractor of another subcontractor engaged to set up MBS' power management system which handles control, equipment status and alarm monitoring.
+Nevertheless, the Court held that Liew had failed to produce a credible explanation for his behavior.
+Liew was then sentenced to two weeks in jail and fined a total of $30,000 on six computer misuse charges.
+Deputy Public Prosecutor Terence Chua pressed for a jail sentence, contending that Liew's unauthorised access of the computer system caused the blackout in Casino 1. In addition to losing revenue for MBS, Liew's actions had also threatened public safety for almost an hour.
+DPP Chua also submitted that Liew could have cut short the shutdown period or informed someone from Power Automation, and yet he did neither of those.
+He urged the Court to to implement a heavy jail term in order to deter others from remotely tampering with sensitive systems.
+However, the Court held that Liew was not guilty of direct sabotage, as Liew had no motive to cause the blackout.
+Instead, Liew was simply reckless and irresponsible, choosing not to inform anybody else until confronted by the police.
+District Judge Eddy Tham justified the sentence by saying that since it was a case of potential rather than actual harm to public safety, a short jail term was sufficient.
+Liew is now appealing against the conviction and jail term.

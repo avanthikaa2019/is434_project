@@ -1,0 +1,10 @@
+PETALING JAYA - Besides greed, cyber criminals are targeting another human desire the need to belong or be part of the action.
+Spammers are now luring people into sharing their personal data by inviting them to take part in the 2012 London Olympic Games as "co-coordinators and welcome partners".
+A leading Internet security firm here has identified more than 300 compromised websites even before the Olympics kicks off on July 27 and the number is rising by the day.
+As the excitement builds up, Symantec Corp has uncovered a new scam where spammers entice people into sharing data by telling them that they can play a role in the Olympics.
+The scam message is sent as an official letter, complete with the Olympics logo, asking the recipient to provide details of personal data up front and, sometimes, also payment for expenses.
+"This is a red flag for this kind of promotion. The inclusion of the official logo is to deceive users into believing its legitimacy," Symantec Security Response Malaysia senior country manager Alex Ong said.
+He warned that cyber criminals were taking advantage of avid sports fans' ignorance and curiosity to tempt them into clicking on "engineered links" that could contain malicious software, phishing attempts or malicious content.
+Search terms related to the Olympics have returned a large number of poisoned links.
+"As the Olympics draws nearer, we expect this type of threat to grow. Users should check the legitimacy of any message before downloading attachments and avoid clicking on links to prevent the misuse of personal and sensitive information such as account numbers," he warned.
+Earlier this month, Symantec intercepted a spam attack targeting Euro 2012. Attached as a UEFA.pdf file, the con message told the reader of his or her winning a Euro 2012 Cup promotion lottery but asked for personal details in its "official" online form to collect the award.

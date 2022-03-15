@@ -1,0 +1,8 @@
+Singtel subsidiary SingTel Mobile has been slapped with a $400,000 fine by the Infocomm Development Authority of Singapore (IDA) for 3G mobile-service disruptions in September last year.
+This is the largest fine meted out by the authority, following M1's $300,000 fine when the telco's cellular network went down in May last year.
+IDA said yesterday that its investigations found that SingTel Mobile "had not fulfilled its obligation to provide resilient mobile-telephone services under IDA's service-resiliency code".
+The 22-hour disruptions from Sept 6 to 7 last year caused some of SingTel Mobile's subscribers, in the central region of Singapore, to experience "intermittent difficulties" in making and receiving calls through the firm's 3G network, IDA said. Subscribers also had trouble accessing SMS, MMS and mobile-data services.
+These were caused by a software glitch, although 2G services were available, IDA said.
+It added that SingTel Mobile's efforts to identify the fault and restore affected services quickly "were not satisfactory" and the firm could have "potentially shortened" the duration of the disruptions.
+Last year, the firm made a net profit of $6.2 billion, the highest by a firm here, according to a DP Information Group report.
+Yesterday, SingTel apologised to customers for last September's disruptions and assured them that "we continually strive towards the high standards of reliability and performance that they have come to expect of us".

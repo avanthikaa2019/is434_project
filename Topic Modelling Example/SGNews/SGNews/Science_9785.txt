@@ -1,0 +1,5 @@
+BOSTON - The Flame computer virus is not only capable of espionage but it can also sabotage computer systems and likely was used to attack Iran in April, according to a leading security company, Symantec Corp.
+Iran had previously blamed Flame for causing data loss on computers in the country's main oil export terminal and Oil Ministry. But prior to Symantec's discovery, cyber experts had only unearthed evidence that proved the mysterious virus was capable of espionage.
+Symantec researcher Vikram Thakur said on Thursday that the company has now identified a component of Flame that allows operators to delete files from computers.
+"These guys have the capability to delete everything on the computer," Thakur said. "This is not something that is theoretical. It is absolutely there."
+Iran complained about the threat of cyber attacks again on Thursday, saying it had detected plans by the United States, Israel and Britain to launch a "massive" strike after the breakdown of talks over Tehran's nuclear activities.

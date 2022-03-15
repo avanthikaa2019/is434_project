@@ -1,0 +1,15 @@
+SOUTH KOREA - Samsung Electronics is considering transforming some of its existing memory fabrication manufacturing lines into non-memory ones at its plants in Korea and abroad.
+Industry sources and analysts said that the move comes as demand for non-memory chips such as application processors is set to increase on burgeoning smart devices, while personal computers face decline.
+AP non-memory chips, which operate much like central processing units for PCs, are key parts for smartphones and other smart devices.
+The Korean tech manufacturer's main focus has been producing DRAM and NAND memory chips, which are less efficient with less storage power than non-memory.
+Global players such as Intel and Qualcomm have long dominated the non-memory chip sector, analysts noted.
+Samsung Electronics mentioned at its last week's earnings conference that line numbers nine and 14 at its Giheung plant in Gyeonggi Province had already been altered to non-memory manufacturing.
+"We are pursuing a plan to further change facilities with flexibility," a spokesperson said, adding that no decisions have been made regarding the timeline.
+The Korean company had indicated that it will invest 15 trillion won (S$16.5 billion) in the semiconductor business.
+As much as 8 trillion won will be invested in developing non-memory chips, an industry source and analysts said.
+Chip suppliers normally make investments in facilities in the second quarter after going through a slowdown in the first quarter, which is considered an off-season for semiconductor manufacturers, analysts said.
+Orders for chips hit their peak in the third quarter as tech firms move to market and sell their smart devices in the fourth quarter during the holidays.
+The first quarter is usually a time for tech firms to organize and clean out their inventories, so there's practically no demand for semiconductors in this period, analysts explained.
+To this end, Samsung Electronics saw its operating profit in semiconductors drop 54 per cent to 760 billion won in the first quarter.
+It attributed the drop to "weak seasonality and decreased demand" for DRAM and NAND, according to financial statements.
+An industry source said that Samsung Electronics seems to be developing efficient server-based DRAM chips as global tech firms such as Apple, Google and Amazon boost their data systems integrated with cloud computing technologies.

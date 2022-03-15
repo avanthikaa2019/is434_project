@@ -1,0 +1,50 @@
+TAIPEI - The world of Wintel - Microsoft, Intel and the Taiwan-based companies that build the computers their products power and run on - is taking a huge collective bet on Windows 8.
+And while this week's Computex trade show in Taiwan has largely presented a united front, it has also highlighted some of the tensions that big gamble has created in a once tight relationship between the U.S. firms and their Asian partners.
+At stake is the future of the world's largest software developer, whose new operating system is expected to be launched in the fourth quarter, and it largest chip maker, as well as an island-wide industry of computer makers and parts suppliers.
+In one corner you have Microsoft Corp, which is porting its tiled Metro interface used in Windows Phone to tablets, laptops and the desktop.
+Although the old point and click interface is still available, the focus is on a touch screen that pits Windows against Google Inc's Android and Apple Inc's iOS.
+In another corner you have chip maker Intel Corp, long Microsoft's partner in personal computers.
+Intel has not only seen its position slip as the world shifts to mobile devices, it has also had to make room beside Microsoft for Britain's ARM Holdings Plc, whose mobile-friendly chips may be better suited for tablets running Windows 8.
+And then there are the computer manufacturers themselves, most of whom are based in Taiwan and who are struggling to combine Microsoft's new operating system and Intel's chip-based designs into products that sell - and turn them a profit.
+The Computex show that ended at the weekend has illustrated just how delicate this arrangement is - with differences over pricing, promotion and the ecosystem that will be needed to support this new chapter in Windows' history.
+"Is this going to be a major resurrection? Well, at least it'll help stop tablets from cannibalizing the PC laptop sector," said Jonah Cheng, an analyst with UBS.
+Microsoft, though still strong on conventional PCs, has watched the energy and innovation shift to mobile devices - led by Apple's iPhone and iPad.
+While PC shipments fell 1.4 per cent last year, and are expected to grow by only 4.4 per cent this year, according to research firm Gartner, tablet shipments have grown from 19.4 million units in 2010 to 68.4 million last year, with that figure expected to rise by 85 per cent this year, according to rival IHS.
+Of those tablets expected to sold this year, Gartner estimates more than 60 per cent will be iPads - and only 4 per cent of them will be running Microsoft's operating system.
+Microsoft, therefore, has little choice but to overhaul Windows to straddle both its traditional computer market and the world of tablets. The result is a potentially jarring shift for users long comfortable with the familiar Windows interface.
+Intel, for its part, is having to rethink its chip business, which has focused on processing data rather than more mobile-centric issues such as power consumption. In the meantime, however, it is pushing its vision of a slimmed down laptop called the Ultrabook.
+The first round of such devices - which owe a lot in look and feel to Apple's successful MacBook Air - were not a huge success, but Intel has come up with better chips, materials and designs featuring sliding, folding or detachable keyboards that it hopes will blur the lines between laptop and tablet.
+All of this, however, depends on the computer manufacturers and suppliers themselves. It's they who have to build the devices and figure out how to turn a profit.
+This creates its own internal tensions because Microsoft wants each Windows machine to leverage all its features as much as possible, while the original equipment manufacturers, or OEMs, as Taiwan's gearmakers are known in the industry, have traditionally cut corners to keep prices low.
+"Microsoft will live and die on how well the OEMs implement the features of Windows 8," says Forrester principal analyst Frank Gillett.
+Intel, too, is trying to push the OEMs to add touch screens and other whizz-bang features to help to push the Ultrabook up-market and differentiate it from the MacBook Air.
+Intel has even gone so far as to sign agreements with touchscreen suppliers undertaking to buy up excess capacity to ensure there are adequate supplies for the OEMs, who make much of the world's computer hardware for global vendors and, increasingly, their own brands.
+The result is that Intel is emphasising quality and features that may push the price of such devices above the sensitive $1,000 mark. A touch screen, for example, adds roughly $100 to the cost of an Ultrabook, Forrester's Gillett says.
+Intel defends the creeping rise in cost, arguing that while it could easily offer designs for much cheaper models it believes the market is looking for more sophisticated devices.
+"We can specify the Ultrabook to get the price point all the way down to $399, but we don't think that's what the consumers want," said Intel senior vice president Tom Kilroy.
+The Computex show-floor reflected this diversity and ambition. Asustek's Taichi dual screen Ultrabook - where both sides of the lid sport a screen - was a particular draw.
+And although most manufacturers appeared to have embraced the full range of Intel's suggested designs and Windows 8's features, the quality remained uneven.
+The plastic slider on one device, for example, failed to unhinge the tablet from the keyboard. Some models remained encased in glass boxes, suggesting they were some way from completion.
+While Computex was show time for Windows 8 and the devices running the system, there is still some way to go until the software's launch. And there are plenty of issues still to hammer out.
+First is who pays whom for what, and how much. The manufacturers must pay Microsoft for each copy of Windows and Intel for each chip. While these account for about a third of an Ultrabook's bill of materials, Forrester's Gillett says that's where the greatest margins are.
+Analyst Serene Chan of Frost and Sullivan said that Microsoft plans to charge $100 for each Windows 8 licence - a significant increase over what it charged for Windows 7 running on mobile devices, especially when compared with Google's Android operating system, which manufacturers can use for free.
+"The cost of the licence that OEMs have to pay Microsoft will be a major drawback," she said.
+Microsoft did not respond to a request for comment on pricing.
+Manufacturers said they still hoped to persuade Microsoft to reduce licence fees. Said one executive from a PC vendor: "We are a major player in the market and hopefully that gives us more negotiating power on the royalty fees and cross payments."
+Intel said that while its price list was public, its arrangements with individual clients were confidential.
+But Intel's Kilroy was defiant, saying that the company invests tens of billions of dollars in chip manufacturing, and a similar amount in research and development.
+"So we don't apologise for the fact that we are the leading edge technology, and that we expect to get paid for it," he said. "The business model works very well."
+Still, as the ground has shifted towards a tighter ecosystem that embraces developers, cloud services, content and - at least in the case of Apple - a combined maker of hardware, operating system developer and retailer, Taiwan's manufacturers must pray that Microsoft and Intel help to fill in the gaps in the Windows world, which now looks a little out of date.
+Can, for example, Microsoft build an ecosystem of application developers and payments as attractive as those of Google, Amazon and Apple? Microsoft has launched its own version of Apple's app store, but it's not yet clear how it will work for those programmes that don't use the Metro interface.
+"They have to make it very easy for people to develop, test and then market Metro-style applications," says Richard Edwards, London-based analyst for IT consultants Ovum.
+Whether these products do well once they are launched is going to be largely down to how well they are promoted.
+As the devices, whether tablets, Ultrabooks or hybrids of the two, are likely to be aimed at more well-heeled customers than these manufacturers are used to, promotion is going to be key.
+And that, in turn, mostly falls to Microsoft and Intel. Having built the devices, the manufacturers will rely on the U.S. giants' marketing clout to convince users to buy them.
+Outspoken Acer chairman J.T. Wang, for example, told reporters at Computex how he had recently made his concerns about this clear to Microsoft's CEO.
+"When I was in Seattle last month I told Steve Ballmer that they'll have to come up with a strong marketing campaign."
+Ballmer's response, Wang said, was to point out that he'd just been named worst CEO of 2011 by Forbes. "Although you are the worst CEO of 2011," Wang says he told him, "you have to stand up and fight." Ballmer, Wang recalled, said Microsoft would fight.
+It's likely they will. But another fly in the ointment is a shift in the old alliance between Intel and Microsoft.
+Computex 2012 marked a divergence of interests as Microsoft is now also working closely with ARM, offering a version of Windows 8 called Windows RT that will work on its less power-hungry processors in tablet devices.
+There were few of these devices to be found at Computex.
+These will come later, but there are already concerns that Taiwan-based manufacturers, who do not have a long or particularly successful track record building tablets, are likely to face increasing price pressure.
+Highlighting the challenge, British-based research company IMS Research said on Friday that Apple's competitive pricing has helped push the average price of tablets down by 21 per cent in a single year.

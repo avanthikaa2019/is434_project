@@ -1,0 +1,34 @@
+Global mobile data consumption is projected to increase ten times more than its current usage rate by 2016, according to research conducted by business intelligence firm Informa Telecoms and Media.
+As a result, mobile operators are forced to seek out better ways to accommodate the surge in data usage.
+The spillover effect from the increase in demand for mobile data, according to Idris T Vasi, is that local businesses and content providers are now turning to creating mobile phone apps.
+Debbie Too speaks to the Chief Executive Officer of Datastream Technology Sdn Bhd (DST) about the latest trends in the mobile and telecommunication industry and what consumers should expect.
+Data usage is not only growing, it's exploding, especially mobile data usage.
+Statistical information from the web states that smartphones are the big drivers of mobile data usage. In general, the global internet traffic is growing significantly.
+Cisco Systems, a worldwide company specialising in networking, produces a Visual Networking Index (VNI) report where they publish statistics on an annual basis.
+What they're saying now is mobile data traffic will increase 18-fold from 2011 to 2016 while the Compound Annual Growth Rate (CAGR) shows that annual growth rate for mobile data traffic is 78 per cent.
+So when you take desktop and mobile, mobile is exploding and for example, when we talk about Internet penetration in Asia, it is between 26 to 27 per cent. There is still a lot of headroom, but the mobile share of internet traffic in Asia is already 18 per cent.
+While the number may seem small to you, since 2010 there has been a 192 per cent growth in the mobile share of Internet traffic.
+In Asia's emerging markets, PC penetration is not that prevalent, so mobile is their first screen, in a lot of Asian countries, the way consumers access the Internet is not through a laptop, but its through a mobile.
+Data usage is increasing and exploding and mobile data usage is a big part of that explosion.
+Data content providers are moving towards apps, so in larger countries, the big or medium-sized retailers are already creating their own apps.
+Even in Brunei, banks are working on their own iPhone apps, or Android apps, so you basically click on the apps and connect to mobile banking services.
+All this started taking off the moment smartphones started reaching critical mass. Right now, smartphone penetration globally is already 26-27 per cent so there is already more than a billion smartphones globally.
+In Brunei, the anecdotal level of all mobile phones that were sold was that 50 per cent are smartphones, but in Singapore, more than 80 per cent of all mobile phones sold are smartphones.
+Given the prevalence of smartphones, people are moving away from simple text-based phones to those powerful enough to run applications, where you can even do transactions on the web.
+One of the biggest trends is video traffic, and it is really increasing, so the majority of traffic is video.
+If you look at global statistics, 54 per cent of all consumer traffic will be video traffic by 2016, and this does not include peer-to-peer.
+If you include peer-to-peer video traffic, then it will be upwards of 85 per cent by 2016.
+This is clearly going to have an impact because video consumes a lot of bandwidth, especially if you want to provide low-latency because video is sensitive to latency.
+You can see that it stops or if you are streaming a video and if you aren't getting good performance, then it will stop and buffer and then it'll start again and so on.
+This is a global challenge for operators, where operators are spending a lot of money on their networks to beef up their networks to make sure that they keep on adding performance and bandwidth to their networks so video is going to have a big impact.
+That is why when we do policy control, we also have to look at what type of traffic you are accessing.
+It is impacting operators. SMS revenues for operators are going down, and the so-called over-the-top (OTT) players like Whatsapp, Skype, GTalk, Viber and so on are impacting revenue for mobile operators globally, and there are various mechanisms that operators are looking at.
+One is that operators globally are thinking of creating their own apps. Another involves giving the consumers better pricing and better packaging.
+The third involves doing revenue sharing with these OTT players so the way this works is that operators will say if OTTs are providing certain services to consumers, the operators will provide them with better capacity and bandwidth for their customers.
+This is where policy control comes into the picture and it is true that it is impacting mobile operators and revenue worldwide.
+On the other hand, SMS is guaranteed delivery.
+We'll use Whatsapp as an example, and there are instances where I use Whatsapp and there is a big lag in the network, I get the message a day later, and I get the message and I don't even know it was sent a day earlier.
+For an SMS, at least if you are sending one there is a 99 per cent chance that you will get it unless there is some instances where there is massive congestion on the network.
+But in general, there is a 99.99 per cent guarantee delivery and it is instantaneous. Whereas with Whatsapp or other services, the guarantee is not there and for pre-paid users it may still cost them.
+The other thing is that 26 to 27 per cent are smartphones, while the other 75 per cent are not, so these types of services would not work if the other person doesn't have Whatsapp.
+If you want to send a message to the remainder of the other 75 per cent of the world, then you would still have to send an SMS.

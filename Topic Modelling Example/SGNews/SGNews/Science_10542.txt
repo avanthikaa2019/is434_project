@@ -1,0 +1,11 @@
+New features aimed at Chinese-language users of popular Apple Inc products were among upgrades the computer giant introduced Monday at its annual Worldwide Developers Conference.
+Mountain Lion, the new version of the operating system, or OS X, that powers Apple's Macintosh desktop and notebook computers, will be released in July, Apple CEO Tim Cook said at the conference. Its improvements include easier interoperability with a user's Apple devices through the iCloud storage service.
+In addition, the Cupertino, California, company will ship Mountain Lion with features enhanced for Chinese users. The OS X will be configured, including through Apple's proprietary Web browser, Safari, for better integration with China's Baidu.com search engine, and will have better pinyin input.
+But the feature that may excite Chinese users most is included in iOS 6, the new version of the software that runs the iPhone, iPad and iPod Touch. It finally gives Apple's artificial-intelligence program Siri the ability to speak and understand Chinese.
+The upgrade to iOS 6 also includes an updated Passbook application, or app, on a mobile device's lock screen. It functions like a digital wallet, using QR codes that can be scanned.
+The iOS 6 also brings a new maps app built by Apple itself. It features turn-by-turn navigation and a 3-D mapping "flyover" function based on images taken by passing aircraft throughout the world. The maps app will end the iPhone and iPad maker's alliance with Google Inc's mapping service.
+The iOS6, unveiled in beta form at Monday's developers conference, will be released to the public in the fall.
+Phil Schiller, Apple's senior vice-president of worldwide marketing, introduced the next-generation MacBook Pro, a notebook computer that has been slimmed down to the width of the MacBook Air, with a retina display. The new MacBook Pro will retail for $2,199
+Apple's line of MacBook notebooks, including the Air and Pro models, will get upgrades as well, the company said.
+It also announced that the Apple online App Store has over 650,000 apps and that sales have reached over 30 million.
+The four-day conference at San Francisco's Moscone Center continues through Thursday. The yearly event gives developers a chance to learn about Apple's latest products and technologies, while giving the company an important marketing platform.

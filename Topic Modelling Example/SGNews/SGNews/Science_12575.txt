@@ -1,0 +1,16 @@
+Samsung Electronics said Friday that its research team had successfully created a three-terminal active device called a "graphene barristor," opening the way for the commercialization of graphene.
+Researcher Park Seong-jun of Samsung Advanced Institute of Technology said that the triode device effectively cuts off electric currents in graphene transistors.
+The report on the development has been published in the online edition of Science Magazine, according to Samsung.
+The team developed something able to connect the graphene and silicon, forming what is called a "Schottky barrier," which could switch off the electric currents by adjusting its height.
+The team includes Yang Hee-jun, Heo Jin-seong, Song Hyun-jae, David Seo, Byun Kyung-eun, Philip Kim, Yoo In-kyeong, Chung Hyun-jong and Kim Ki-nam, along with Park.
+"What we focused on is that the mobility of the device is on a good level and that it would improve the performance of the graphene transistor," said Park.
+"The study indicates that we've gotten rid of the biggest barrier in the commercialization of graphene. We're currently devising the roadmap to go for 10 nanometer chips by 2020."
+He also said that with the new development the central processing unit of a computer could become 100 times faster, obtain a faster response rate and use less electricity.
+"We believe it would also be possible to apply it in displays and wherever high performance is required," Park said.
+Graphene, one-atom-thick sheets of graphite, is a super-strong and flexible material considered the ingredient for the next-generation of semiconductors and displays. Although it has been the subject of many studies, its inability to stop the flow of electric currents made its use in transistors difficult.
+Touted as the "miracle material of the 21st century," graphene was expected to close the curtain for silicon and change the future of computer and other electronic devices ? manufacturing faster and cheaper gadgets which are also thinner and flexible.
+Experts said it could open new applications in transparent and flexible electronics.
+Samsung, joined by Sungkyunkwan University in Seoul, was also one of the biggest investors in research, demonstrating a 25-inch flexible touchscreen using graphene.
+"The optimization of the device processing is the next immediate step that needs to be completed," said Park.
+Currently, the team of researchers has made nine intellectual property application involving the operation method and structure of the graphene transistor.
+Aiming to commercialize the device before 2020, the team will meet scientists, experts and business professionals around the world to unveil its findings on "graphene barristor," according to Park. The research is expected to be published on the offline edition of Science as early as later this month.

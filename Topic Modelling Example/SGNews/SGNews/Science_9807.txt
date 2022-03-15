@@ -1,0 +1,17 @@
+SAN FRANCISCO - Two service outages within the course of several hours rocked microblogging platform Twitter on Thursday, as users worldwide reported significant down-time and slow service across both Twitter's website and mobile applications.
+Amid speculation that Twitter had been crippled by a hacker attack, the San Francisco-based company blamed the outage - one of its most severe episodes in recent months - on a "cascading bug" in one of its infrastructure components.
+"One of the characteristics of such a bug is that it can have a significant impact on all users, worldwide, which was the case today," Mazen Rawashdeh, a Twitter vice president of engineering, wrote in a blog post on Thursday afternoon, after normal service resumed.
+"We are currently conducting a comprehensive review to ensure that we can avoid this chain of events in the future," he added.
+Twitter's statements came after UgNazi - an emerging hacker outfit that recently gained publicity for breaking into Cloudflare chief executive Matthew Prince's personal Google email account - claimed credit for the service disruption in an email to Reuters, saying it launched a distributed denial-of-service (DDoS) attack against Twitter because of the company's support for the Cyber Intelligence Sharing and Protection Act.
+One security professional said the group probably used a DDoS-for-hire site to launch an attack against Twitter on Thursday, but downplayed the likelihood the group was solely responsible for bringing down the social media network.
+"It was mere coincidence," the security professional said."The backend of Twitter is having issues, which is unrelated to the very small attack."
+North American traffic levels for Twitter.com sharply plummeted on two occasions between 8:30 a.m. PDT (1530 GMT) and 11:00 a.m. PDT (1800 GMT), according to data provided by network analytics company Sandvine.
+The first outage lasted between 8:30 a.m. (1530 GMT) and 10:00 a.m. (1700 GMT), data showed.
+Twitter acknowledged the disruption in a mid-morning blog post that was continually revised as the service resumed, only to fail for a second time before 11:00 a.m.
+Thursday's sustained outage leaves a fresh bruise on a service that had supposedly shed its unreliable reputation long ago.
+As the service resumed on Thursday, its most dedicated users quickly hopped back on to crack jokes, express relief and complain about the interruption - and, indeed, the fact that during the outage they had nowhere to complain about the interruption.
+Founded in 2006, Twitter was plagued in its early days by frequent outages as its servers struggled to handle the ever-rising volume of tweets generated worldwide, leaving frustrated users with its famous "fail whale" error screen.
+In recent years, Twitter, which has been under great pressure to demonstrate financial viability, has also devoted considerable resources toward improving its reliability, in an attempt to project itself as a mature, polished brand.
+CEO Dick Costolo said this month that Twitter now has 140 million active monthly users who send 400 million tweets daily.
+The company sounded an apologetic note on Thursday, as it conceded it had failed users who rely on the platform to connect with "heroes, causes, political movements."
+"It's imperative that we remain available around the world,"said Rawashdeh, "and today we stumbled."

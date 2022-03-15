@@ -1,0 +1,19 @@
+LONDON - British police on Thursday arrested two teenaged boys in connection with the release of recorded conversations between staff on the country's anti-terrorist hotline.
+Hacking group Team Poison uploaded a four-minute recording, apparently of conversations between staff manning the confidential service allowing people to report suspicious behaviour, to YouTube on Thursday.
+London's Metropolitan Police said they were satisfied the recordings were not obtained through hacking.
+A Scotland Yard spokesman said detectives from the Central e-Crime Unit were questioning the youths, aged 16 and 17, in the West Midlands, central England.
+They were arrested on suspicion of offences under the Malicious Communications Act and the Computer Misuse Act.
+In the recordings, a man can be heard saying that the hotline had received about 700 hoax calls "from a group called Team Poison".
+Scotland Yard admitted that conversations between staff had been recorded, but said they were "satisfied that any recording would have been made via the receiving handset only and not from an attack on internal systems".
+A police spokeswoman would not elaborate on how the hackers could have obtained recorded conversations between police staff without access to the force's internal communication system.
+"We have throughout the day researched the allegation that the anti-terrorist hotline had been 'hacked' and 'activists' claims that they were able to listen unrestricted to confidential communications," the force said.
+"We are confident the MPS (Metropolitan Police Service) communication systems have not been breached and remain, as they always have been, secure."
+Scotland Yard urged members of the public to continue using the service, saying they could "remain confident in the ability to communicate in confidence".
+Team Poison is believed to have been behind cyber-attacks on Facebook-founder Mark Zuckerberg and also on French President Nicolas Sarkozy's Facebook page.
+In November 2011, the group released more than 100 usernames and login details which they claim were obtained from the United Nations Development Programme.
+They also joined forces with rival-hackers Anonymous to launch Operation Robin Hood, which intended to obtain credit card details and make donations to organizations sympathetic to the Occupy Movement.
+The security breach is the second involving the British police force in recent months.
+In February, Anonymous released a recording of a conference call between Scotland Yard and FBI officials discussing operations against the collective.
+The British force said at the time that it believed that none of its systems had been hacked, while the US law enforcement agency said it had launched a criminal investigation into the breach.
+In an advertising campaign entitled "It's probably nothing, but...", Scotland Yard promotes its anti-terrorist hotline as a confidential way for people to report behaviour that has raised suspicions.
+"We know you may have concerns about speaking to the police - possibly because your friends or family may find out. But all information passed to the police is treated in the strictest of confidence," it says.

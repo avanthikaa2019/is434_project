@@ -1,0 +1,2 @@
+Mozilla Marketplace is currently live, offering users more than 100 applications to install on their desktops with the Firefox 16 Nightly build.
+Apps from the store can run on Mac or Windows machines, said technology-news website Engadget. The apps will show up in the user's list of installed programs and can be launched from the Windows Start Menu.

@@ -1,0 +1,3 @@
+An open-source project is being developed to offer the same kind of experience that iPhone and iPad users have, but without the need to own an Apple device.
+Called Project Magenta, it is an "implementation of Darwin/ BSD on top of the Linux kernel" that will be "fully binary compatible with iOS 5.0", the project said on its website.
+However, the Project Magenta operating system will not be able to access applications on Apple's App Store.

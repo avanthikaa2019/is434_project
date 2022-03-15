@@ -1,0 +1,16 @@
+THE case of a cabby who used someone else's identity card (IC) to change the person's SingPass login password has prompted the Infocomm Development Authority of Singapore (IDA) to take steps to avoid a repeat of the incident.
+An IDA spokesman said on Saturday that IT services provider CrimsonLogic is the operator of the SingPass authentication service.
+CrimsonLogic operates SingPass counters at various sites to facilitate password resets.
+Operating procedures for SingPass password resets require CrimsonLogic's counter staff to check the validity of the applicant's identification documents and match the applicant's facial features with the photograph on the identification documents.
+But taxi driver Chong Chee Hiong, 37, managed to use the IC of DrElgin Tan, 34, to reset Dr Tan's SingPass login password at the CPF Service Centre at Bishan in November last year.
+Chong, who picked up Dr Tan's IC and driving licence after the veterinarian left his wallet on a coffee shop seat, then accessed Dr Tan's CPF contribution and revenue documents.
+He used them to get $12,500 in loans from three credit companies before he was caught at Monetium Credit on Nov 24 last year when its staff spotted differences in Chong's appearance and Dr Tan's IC photo.
+Chong was jailed 21 months on three charges of cheating by personation on May 10.
+The IDA spokesman said that in this case, there was an oversight by the counter staff, who failed to notice that the photo on the IC presented did not match the person who asked for the password reset.
+She added that IDA is working with CrimsonLogic to review its operating processes.
+The counter staff who wrongly performed the SingPass reset had been counselled.
+"CrimsonLogic has also briefed all its counter staff on this case and reminded them to be vigilant while verifying the authenticity and validity of the identification documents," she said.
+As an additional safety measure, the SingPass system sends a notification letter to the SingPass holder's registered address after a password reset, she said.
+The letter informs the recipient to notify CrimsonLogic if he or she has not authorised the reset, and advises him or her to make a police report if fraud is suspected.
+In Dr Tan's case, he had reported the loss of his IC and gone to the Immigration and Checkpoints Authority to get a replacement.
+When he received the SingPass letter about a week after that, he said he thought that the SingPass password reset was a natural process of getting a new IC, and therefore did not report the matter to the police.

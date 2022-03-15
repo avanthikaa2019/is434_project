@@ -1,0 +1,16 @@
+Websites selling child pornography DVDs continue to operate despite the launch in April last year of a content blocking system to fight them. The illicit sites have exploited a loophole in the system to give their customers easy access.
+Users can easily access a blocked site by simply typing the site's Internet protocol (IP) address, which usually consists of a series of numbers (such as 123.234.xxx.xxx) instead of a URL (such as xxx.co.jp) directly in the browser's address bar.
+Police plan to launch an intensive campaign to crack down on websites that sell illegal DVDs on suspicion of violating the law against activities relating to child prostitution and child pornography.
+Police recently discovered one such site that carries pictures of naked girls together with descriptions of their ages, such as "9 years old" and "11 years old."
+The site sells DVDs that appear to contain child pornography at 650 yen each, including "famous" titles that the police cracked down on nationwide in the past. The site boasts, "We have all the titles you want."
+According to police, the operator of this site is a group based in the Tokyo metropolitan area that has been selling illegal DVDs for several years. It established dozens of new sites after the launch of the site blocking system in 2011, seemingly undisturbed by the measure.
+These websites can be accessed because of a technical loophole--the direct typing of IP addresses.
+An IP address is allocated to every website on the Internet. However, URLs are more widely used as Internet users find them easier to work with.
+The Internet Content Safety Association, which decides sites to be targeted for the content blocking, only made a list of URLs, but not a list of IP addresses.
+The practice inadvertently allows easy access to the blocked sites by using IPs instead of URLs.
+Operators of illegal sites prepare websites carrying images such as models in swimsuits, which are not child pornography. After they receive accesses from potential clients, the operators send them the IP addresses of the illegal sites through means such as e-mail to lure them to the illicit pornography sites.
+The police intend to thoroughly crack down on serious cases of evading the content blocking.
+Access blocking systems designed to prevent the proliferation of child pornography have been employed in European countries, such as Norway and Britain, since around 2004.
+The Japanese system was launched in April 2011. As of November, 170 URLs and 19 domains were registered as "illegal sites." However, lists of the corresponding IP addresses have not been compiled.
+According to a survey conducted from October to December last year by the Internal Affairs and Communications Ministry, Norway introduced a blocking system similar to that of Japan, while Britain blocks questionable sites using both URLs and IP addresses.
+"We are aware that the direct typing of IP addresses is rampant, and we are trying to address the problem as soon as possible," said an official of Yahoo Japan, which serves as the secretariat of the ICSA.

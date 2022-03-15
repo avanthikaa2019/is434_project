@@ -1,0 +1,42 @@
+MALAYSIA - To use or not to use mobile devices in business? Today this is no longer the question. Instead, it is "how to use?"
+According to Symantec Corporation's 2012 State of Mobility Survey, mobile devices have become integral in the operations of many small and medium businesses.
+As the survey shows, 67% of enterprises in Malaysia are already using or planning to use custom mobile applications in their day-to-day operation and transactions.
+Many now accept mobile devices as critical business tools, says Eric Lam, Symantec Enterprise Director for Risk and Compliance (Asia Pacific and Japan).
+"Many realise the mobile phone is not only just for calling and SMS-ing bosses or clients, or even checking e-mail when you are out of the office. You can use it for specific functions at work."
+One function is line-of-business applications, for which 58% respondents said that they are using mobile devices.
+This business cultural shift has seen a rapid adoption in mobile devices among organisations in Malaysia, Lam highlights. "Companies are not just accepting mobility, they are starting to embrace mobility and plan their organisations around it."
+Conducted by Applied Research on 6,275 global organisations, including 150 in Malaysia, the survey found that 26% of Malaysian enterprises surveyed have already implemented custom mobile apps, while 70% are discussing corporate app stores.
+The proliferation of mobile devices such as smart phones and tablet computers is undeniably a catalyst for this development, but that tells only one side of the story.
+Strongly spurring the uptake of mobile devices in enterprises are the business benefits that have exceeded expectations, says Lam.
+"It is all about business agility. Customer satisfaction is high while there have been increased efficiency, increased sales and reduced time to accomplish business tasks after the implementation of mobile devices.
+"In fact, the survey found that employee productivity and employee satisfaction reached 65%, six per cent more than the expected 59%," he says.
+Only efficiency fell below expectation as just 60% managed to increase their efficiency through the use of mobile computing, compared to the expected 70%.
+"But at 60%, it is still high enough to convince people that it is worth the shift," Lam notes.
+However, with the adoption of any "new" technology, there are bound to be risks and costs, as 43% respondents identified mobile devices as one of their top three Information Technology (IT) risks while 44% of those surveyed expressed concern that mobility was "somewhat" to "extremely" challenging.
+Concerns range from lost and stolen devices, data leakage, unauthorised access to corporate resources and the spread of malware infections from mobile devices to the company network. With mobile devices now delivering critical business processes and data, the cost of security incidents can be significant.
+As the survey shows, the loss arising from mobility threats, including data loss, damage to the brand, productivity loss, and loss of customer trust, amounted to an average loss of US$183,000 (S$230,232) in Malaysia last year, compared to US$247,000 average loss globally.
+Most organisations, however, are responding to the "threats", or are at least discussing a range of security measures.
+Still, less than half have implemented measures, Lam notes.
+"This is a new area or emerging area, so many companies are only starting to look at this. (But) we believe this situation will improve over time," he adds.
+What is clear is that companies have to find a measured and balanced approach as they implement new mobile devices and applications rather than react to problems that arise, Lam advises.
+"Prevention is better than cure, so look at the potential risk to mitigate the risk. That will be the best way forward so that you don't adopt mobility but at the end of the day get into trouble.
+"For example, it is difficult to quantify the loss of reputation but the effect on the company's on-going and future business can be massive. It can be much more detrimental than a dollar profit loss," he points out.
+Studies have shown that if you lose your phone, there is a high possibility that your personal and corporate data on the phone will be at risk.
+Lam highlights Symantec's Honey Stick Project conducted last year in the United States and Canada to look at what happens to smart phones when they are lost or misplaced.
+Under this project, 50 smart phones were "lost" at various heavily trafficked, public places like elevators, malls, food courts and public transit stops in five different cities across North America.
+Of course, the phones were first loaded with remote tracking software and fake "sensitive" personal and corporate data.
+As the test discovered, 96% of the devices were accessed once found, with less than half of the "finders" trying to return them to the "owners". Over 60% showed that the finders had attempted to hack into their social networking accounts and personal e-mail, while 70% of the lost devices had their personal and business related information "stolen".
+"These are real situations that companies will face in the real world. This can potentially happen to real companies if they are not careful," Lam cautions.
+Fortunately, some 51% of respondents in Malaysia recognise the challenge, indicating that they are maintaining a high level of security as their top business objective.
+Companies need to develop a mobile strategy that defines their organisation's mobile culture while aligning with the appropriate security risk tolerance.
+In other words, you need to look at how the employees are using their mobile devices access and use of data and the company's business processes, before putting in the necessary policies and measures suitable for your operation, Lam explains.
+"For instance, a bad management (practice) is to allow employees to use personal mobile devices freely to access their system, or to use any company data freely."
+A customised app store is one way forward, Lam opines.
+"It is more efficient and secure. It is a good way to manage your employees' use of mobile devices and apps, instead of allowing them to use whatever they want."
+Ultimately, it is the organisations that choose to embrace mobility without compromising on security that are most likely to improve their business processes and achieve productivity gains, he notes.
+Symantec offers some "best practices" for organisations to help them strategise their use of mobile devices effectively:
+Mobility offers tremendous opportunities for organisations of all sizes. Explore how you can take advantage of mobility and develop a phased approach to build an ecosystem that supports your plan.
+Build a realistic assessment of the ultimate scale of your mobile business plan and its impact on your infrastructure. Think beyond e-mail. Explore all of the mobile opportunities that can be introduced and understand the risks and threats that need to be mitigated.
+Many of the processes, policies, education and technologies that are leveraged for desktops and laptops are also applicable to mobile platforms. So, the management of mobile devices should be integrated into the overall IT management framework and administered in the same way, ideally using compatible solutions and unified policies.
+As more employees connect their personal devices to the corporate network, organisations need to modify their acceptable usage policies to accommodate both corporate-owned and personally-owned devices. Management and security levers will need to differ based on ownership of the device and the associated controls that the organisation requires.
+Look beyond basic password, wipe and application blocking policies and integrate encryption and authentication policies. Focus on the information and where it is viewed, transmitted and stored.

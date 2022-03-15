@@ -1,0 +1,29 @@
+LinkedIn Corp's silence on the extent of a security breach that exposed millions of user passwords has damaged its reputation among some business professionals, and may slow the fast-growing company's rise if the breach turns out to be more serious than so far disclosed.
+Several days after news of the theft of the passwords emerged, the site with more than 160 million members still says it has yet to determine the full extent of the breach.
+Some cyber security experts say LinkedIn did not have adequate protections in place, and warn that the company could uncover further data-losses over the coming days as it tries to figure out what happened.
+LinkedIn is conducting an investigation to determine how more than 6 million customer passwords turned up on underground sites frequented by criminal hackers. Company spokesman Hani Durzy said LinkedIn does not even know if any account information was stolen besides passwords.
+The dearth of information has left some security professionals and customers worried that LinkedIn's computer systems may have suffered a more serious breach.
+"There is going to be more to come," said Jeffrey Carr, chief executive of security firm Taia Global. "As long as they don't know what happened here, there is a good chance that it is more widespread than originally thought."
+Customers whose passwords were among those stolen were still getting notified by LinkedIn as of Friday afternoon, days after news of the breach first surfaced.
+Laura DiDio, a technology analyst with a consulting firm known as ITIC, said that was not fast enough.
+"I am angry," she said. "As soon as there was an inkling that there was a breach, they should have been all over this. I want to know what they are doing to correct this situation."
+Some security experts say the company's data security practices were not as sophisticated as one would typically expect from a major Internet company.
+For example, they noted that LinkedIn does not have a chief information officer or chief information security officer.
+Those are positions that typically supervise technology operations and computer security at large corporations.
+Company spokeswoman Erin O'Hara said the company did not have managers with those titles, but that its senior vice president for operations, David Henke, oversees those functions.
+Several experts said the company fell down in the way it encrypted, or scrambled, the passwords that were stored in the database.
+The technique they used to encrypt those passwords is relative simple one that hackers can crack fairly quickly with only a moderate level of skills and widely available computer resources, they said.
+When asked to comment on that criticism, the company said on Thursday that LinkedIn was already taking steps to improve security, including improving the technique it uses to protect those passwords.
+LinkedIn is a natural target for data thieves because the site stores valuable information about millions of professionals, including well-known business leaders.
+"This is the serious social networking site. This isn't the one I got to see pictures of my friend's new dog," said Mary Hildebrand, chair of the privacy practice area at the law firm Lowenstein Sandler.
+The way that the company responds to the theft will play a critical role in determining the extent to which the incident damages LinkedIn's reputation, experts said.
+"LinkedIn has always claimed part of their strategy is making a better user experience," said Jim Janesky, director of research at Avondale Partners.
+"If this were to comprise that in LinkedIn's users minds, it could slow down the growth of new users or limit individuals as repeat users."
+Hemanshu Nigam, chief executive of security consulting firm SSP Blue, said he advised all LinkedIn members to immediately change their passwords after he heard news of the breach.
+"I don't know how many emails I got from customers saying 'Thank you for telling me to change my password. I'm kind of freaked out now,'" he said.
+"Companies like this survive because of their reputation,"added Nigam, who previously worked as a security executive at Microsoft Corp and News Corp. "People need to make a decision: 'Can I trust them with my data or not?'"
+LinkedIn shares rose 2.6 per cent to US$96.26 (S$124) on Friday. While the breach has not appeared to hurt the stock to date, investors are likely closely watching the matter closely because the stock carries one of the loftiest valuations in the technology sector.
+LinkedIn made a monster public debut in May 2011 and is still trading at more than double its IPO price of US$45.
+The shares are trading at nearly 80 times projected 2013 earnings. Google trades for about 12 times next year's earnings forecast.
+Rob D'Ovidio, associate professor of criminal justice at Drexel University, said it is fair to criticize LinkedIn for the loss.
+"There is a social responsibility that they have in today's day and age to use the best available security measures," he said. "I am of the personal belief to hold companies liable for these types of breaches."

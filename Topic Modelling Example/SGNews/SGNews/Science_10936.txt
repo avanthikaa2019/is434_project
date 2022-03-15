@@ -1,0 +1,13 @@
+ZURICH - Technology giant Google can continue to provide its Street View service in Switzerland after a Swiss Court ruled the company was not bound to blur all faces and number plates before publishing images on the Internet.
+That softened a March 2011 ruling by a lower court which had upheld claims from the Swiss privacy watchdog that Google should obscure all faces and number plates from its photo mapping service, a judgement Google appealed.
+"The Federal Supreme Court holds that it is not justified to require, in addition to automatic anonymisation prior to publication on the Internet, that all faces and number plates be rendered completely unrecognisable," the court said in a statement.
+"It therefore upholds the appeal in part."
+The court also said that near schools, prisons and other'sensitive facilities', faces and number plates must be completely obscured before publication on the internet, while pictures of courtyards and gardens not visible to passers-by could only be published with the owners' prior consent.
+Google had said last year it could pull the Street View application from Switzerland if the country's highest court didn't overturn the lower court ruling.
+Eliane Schmid, spokeswoman for Switzerland's privacy watchdog, said: "The Supreme Court has understood that demands are to be made with regards to rendering individuals anonymous for the purpose of internet publication."
+Switzerland's privacy-protection commissioner Hanspeter Thuer, who pursued and won the widely-watched case against Google last year, wasn't immediately available for comment.
+The debate over data privacy continues in many countries, as regulators struggle to balance privacy rights with Street View, which provides panoramic views of city streets and is used by millions.
+Google disclosed in 2010 that the camera-equipped cars it used to take pictures for Street View had for several years inadvertently collected personal data from unsecured wireless networks across the world. The revelation prompted scrutiny from authorities in a number of countries, including Switzerland, the Netherlands, the U.K. and France.
+"We are gratified that the Swiss Federal Tribunal has confirmed a main element of our appeal," Google said in a statement on Friday.
+"This acknowledges that we have integrated extensive measures to protect personal privacy into Street View, including automatically rendering faces and license plates unidentifiable."
+A spokesman for Google said a December 2011 survey by market researcher TNS Infratest found that 60 per cent of Swiss have used Street View to date, and that three quarters said they liked the service and would use it again.

@@ -1,0 +1,31 @@
+Google, Apple, Microsoft and Yahoo! are all in the struggle, along with the Norwegian-made Opera browser and the open source Firefox software from Mozilla.
+The motive behind the wars is not just bragging rights. The company that controls the mobile Web can direct users to its websites, and importantly, gather data that can be used in targeted advertising.
+"The browsers need to be present on the mobile device for survival," said Greg Sterling, an analyst with Opus Research.
+"Everyone is trying to manage their strategy in this multiscreen and multiplatform world."
+Research firm StatCounter found that global access from mobile devices, not including tablets, doubled in the year to January to 8.5 per cent of all Internet usage.
+Google stepped up its effort earlier this year by releasing a full version of its Chrome browser for mobile devices, which will over time replace the unnamed browser on devices powered by Google's open Android platform.
+The Google-Android browser by April had grabbed 21.5 per cent of the mobile Web, overtaking Opera, the early leader that had 21.3 per cent, according to StatCounter.
+"Chrome is definitely the up-and-comer because of Android, and it has a lot of momentum on the PC," Sterling said.
+Running third was Apple's Safari, the default browser on iPhones, with 20 per cent. Nokia, BlackBerry and a few others hold small shares.
+When tablets are included, Apple is the dominant player with 63 per cent, according to data from Net Applications' NetMarketShare survey, but Android is gaining with nearly 19 per cent.
+The push by Google meshes with its strategy of gathering information about users across platforms, so that someone searching on a mobile device might get an ad on a PC, or vice-versa.
+And Google just completed its $12.5 billion deal to buy mobile phone maker Motorola Mobility, freeing the California company to build its own handsets that play into the strengths of its
+software.
+"Everybody wants to have that first point of contact with the user to control the experience from that point, capture certain data and direct them to services," said Al Hilwa of the research firm IDC.
+"It's all about control, about who is further up on the stream of data."
+Meanwhile Microsoft, in its effort to get a share of the mobile space, is pushing its own Internet Explorer browser for devices running Windows, but critics say the software giant is limiting compatibility.
+Mozilla's Harvey Anderson complained in a blog post that Microsoft is limiting the "advanced" capabilities for outside software, effectively shutting out browsers like Firefox.
+Anderson said Microsoft in its new Windows 8 devices was signalling "an unwelcome return to the digital dark ages where users and developers didn't have browser choices."
+Yahoo! became the latest to boost its effort in the mobile space, introducing its Axis browser designed for mobile devices.
+"It is meant to replace Safari," Yahoo! product management director Ethan Batraski said of Axis. "You will never have to use Safari ever again."
+Ben Schachter, an analyst at Macquarie Capital who follows Google, said the Internet search giant will also introduce a version of Chrome for the Apple operating system.
+Schachter said in a note to clients that Google benefits from Chrome by reducing the payments from "traffic acquisition costs" and that a Chrome browser for iPhones and iPads could
+"meaningfully" reduce what Google pays Apple.
+But Apple can tweak its strategy without competing head-on against Google, Sterling said. He said Apple's Siri voice assistant and its new maps software offer a type of search. And as tensions rise with Google, it could change the Safari search engine to Microsoft's Bing, or another.
+Analysts say it remains unclear to what degree device makers will try to block out competing browsers, and if this will trigger a government response. In the 1990s, Microsoft's efforts to lock out competing browsers prompted actions on both sides of the Atlantic.
+The battle for control of the mobile Web raises questions about Facebook, which is groping for a mobile strategy after a troubling response to its massive share offering.
+One report said Facebook was eyeing Opera, which could solve some of the perceived problems for the social network giant by offering a platform to get better data on mobile usage for targeted advertising.
+"It wouldn't surprise me" if Facebook were to acquire or tie up with Opera or develop its own browser, Hilwa said.
+Another player to watch, said Hilwa, is Amazon, which has developed its own browser for the Kindle Internet device - a move that can also steer users various services, earning cash along the way.
+Hilwa said Amazon, like the others, is pursuing a strategy that includes hardware and software, but can also sell goods and services.
+"They have content, they sell stuff, they have Web services," he said. "They have a lot of assets and have been successful. I would watch them."

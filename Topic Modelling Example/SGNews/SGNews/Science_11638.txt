@@ -1,0 +1,15 @@
+LONDON - An international team of scientists has cracked the genetic code of the domesticated tomato and its wild ancestor, an achievement which should help breeders identify the genes needed to develop tastier and more nutritious varieties.
+The full genome sequence of a tomato breed known as Heinz 1706, and a draft sequence for its closest wild relative Solanum pimpinellifolium, were published in the journal Nature on Wednesday.
+Researchers who carried out the work said that together the sequences provide the most detailed look yet at the functional parts of the tomato genome and show order, orientation, types and relative positions of all of its 35,000 genes.
+The sequences should help researchers find the links between certain tomato genes and the characteristics they determine, and will also extend scientists' understanding of how genetic and environmental factors affect the health of a crop.
+"Tomatoes are one of the most important fruit crops in the world, both in terms of the volume that we eat and the vitamins, minerals and other phytochemicals that both fresh and processed tomato products provide to our diets," said Graham Seymour, a professor of biotechnology at Nottingham University, one of 300 scientists involved in the Tomato Genome Consortium (TGC).
+The tomato is also a good model to investigate the process of fruit ripening, so understanding its genome should help reveal the molecular circuits that make fruits ripen and give them their health-promoting properties, the team said.
+"For any characteristic of the tomato, whether it's taste, natural pest resistance or nutritional content, we've captured virtually all those genes," said James Giovannoni from the Boyce Thompson Institute for Plant Research at Cornell University, who was part of the US tomato sequencing team.
+Tomatoes represent a US$2 billion (S$2.5 million) market in the United States alone, while in Britain the market for tomatoes is worth around 625 million pounds (S$1,230 million) a year.
+The research also offers some insight into how the tomato and its relatives diversified and adapted to new environments over the years.
+The scientists said the findings show the tomato genome expanded abruptly about 60 million years ago.
+Some of the genes generated during that expansion were involved in the development and control of ripening, making them particularly interesting to tomato breeders.
+The TGC involved scientists in 14 countries including Argentina, China, France, Germany, India, Japan, South Korea, Britain, the United States and others.
+Giovanni said the work has implications for other plant species.
+Strawberries, apples, melons, bananas and other fleshy fruits share some characteristics with tomatoes, he explained, so knowledge about the genes involved in fruit ripening could potentially be applied to them, helping breeders and growers to improve food quality and cut costs.
+"Now we can start asking a lot more interesting questions about fruit biology, disease resistance, root development and nutritional qualities," he said in a statement.
