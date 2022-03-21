@@ -1,7 +1,0 @@
-An international broadband research specialist is looking for 900 volunteer participants for a year-long study.
-The study will help identify areas for improvement to Internet service providers, a vital step in bringing top-notch internet services to local users.
-The study is conducted by SamKnows, and backed by the Infocomm Development Authority of Singapore (IDA)
-As part of the study, volunteers will receive reliable reports about the service they are receiving which can be used by ISPs to diagnose issues with an Internet connection.
-They will be sent a small, purpose-built 'Whitebox' device that plugs into their Internet connection.
-When a volunteer's broadband line is not in use, the Whitebox runs a series of automated tests to measure the speed and performance of the connection.
-The device only tracks bandwidth speeds and does not collect or track personal internet usage.

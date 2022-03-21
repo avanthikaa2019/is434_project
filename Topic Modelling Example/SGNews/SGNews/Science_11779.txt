@@ -1,8 +1,0 @@
-A WI-FI dead spot is something many of us have encountered every so often. If only there were Wi-Fi routers with extended reach.
-Actually, there are, if we look hard enough and are prepared to experiment, although physical barriers to wireless signals as a rule are hard to surmount.
-One such modem is Buffalo's AirStation HighPower, a low- cost but high-performance wireless-N router that claims to increase download speeds six times and extend Wi-Fi range by up to three times, compared to previous models.
-A test of this router showed much promise and although no controlled tests were conducted, it does work very well, both in download speed and coverage.
-What was also impressive was the ease with which the router could be set up. It uses a Web-based setup wizard and there was no need to use a setup CD. The double 25cm high-gain antennas have much to do with the improved coverage.
-The router also works as an extender for any existing router to boost Wi-Fi coverage.
-Fifty-nine dollars is not a huge amount to pay for a router that can do much to improve one's Wi-Fi experience.
-How much: $59 with three-year warranty for the Buffalo WCR-HP-G300

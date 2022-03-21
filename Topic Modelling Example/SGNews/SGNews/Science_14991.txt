@@ -1,6 +1,0 @@
-INTEL and PC distributor In- gram Micro are introducing an Intel Anti-Theft service here. Intel's anti-theft technology works by enabling a user to send a lock-down request via the Web or by configuring a hardware timer to trigger a lock-down if the machine does not check in with a server at specified times.
-The service also creates a secure data partition on the hard drive where confidential files are encrypted and stored.
-Intel's technology uses special hardware built into select second-generation Intel Core processor laptops to disable a stolen machine.
-Even if a thief were to change the hard drive, alter the boot order and avoid connecting to the network, the lock-down cannot be bypassed.
-And when a lap- top is disabled, access to the data is locked down as well. Connecting the hard drive to another laptop would not circumvent the lock-down.
-How much: Ingram Micro offers a one-year service plan for $39.90, and a three-year plan for $79.90. Intel provides service-hosting and customer support. The service is available for purchase at Challenger.

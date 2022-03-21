@@ -1,8 +1,0 @@
-LOS ANGELES - Microsoft on Monday unveiled a Surface tablet computer as the technology titan steps in with its own hardware to take on Apple's market-ruling iPads.
-Microsoft chief executive Steve Ballmer described the iPad challenger as a tablet that "works and plays" when he showed it off at a press event in Los Angeles.
-Surface is also the name of table and poster-sized touch screen computers that Microsoft has pitched to the business market for use in restaurants, shops, bars and other venues.
-A tablet demo video online at microsoft.com/surface/ promised the tablet was "coming soon.'
-A version of Surface running on Windows RT software tailored for ARM mobile device chips measured 9.3 millimeters thick and weighed 676 grams.
-It boasted a 10.6-inch (26.9 centimeter) high-definition screen and will be available with 32 or 64 gigabytes of memory, according to Microsoft.
-A tablet model powered by Windows 8 Pro software measured 13.5 millimeters thick, weighs 903 grams and will be available with 64 or 128 gigabytes of memory.
-"It's a whole new community of computing devices from Microsoft," Ballmer said. "It embodies the notion of hardware and software really pushing each other."

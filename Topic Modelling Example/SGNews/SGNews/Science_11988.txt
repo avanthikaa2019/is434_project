@@ -1,5 +1,0 @@
-A team of scientists here have come up with a microchip that can transfer data wirelessly more than 1,000 times faster than Bluetooth.
-The chip can be used in mobile devices such as smartphones to transfer movies and songs in seconds.
-A two-hour movie, for example, would take just 30 seconds to transfer between phones with the chip.
-The work of the team - from Nanyang Technological University and the Agency for Science, Technology and Research's (A*Star) Institute of Infocomm Research - has received 16 international patents .
-Their work has also been featured in 51 science journals and conference papers.

@@ -1,2 +1,0 @@
-United States computer security researchers said on Sunday that the Flame computer virus that smouldered undetected for years in Middle Eastern energy facilities has vanished.
-Anti-virus firm Symantec said in a blog post late last week that some Flame "command-and-control servers sent an updated command to several compromised computers" to have Flame removed completely.

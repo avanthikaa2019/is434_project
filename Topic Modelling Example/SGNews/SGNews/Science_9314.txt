@@ -1,9 +1,0 @@
-HONG KONG - Hong Kong researchers have developed software able to identify censored posts on China's main microblog, they said Thursday.
-Called "WeiboScope", the programme developed as a project at the University of Hong Kong is able to detect politically sensitive posts deleted by Chinese censors on Sina Weibo, the Chinese version of Twitter.
-Beijing regularly blocks Internet searches under a vast online censorship system known as the Great Firewall of China, but the growing popularity of microblogs such as Sina Weibo has posed the authorities a new challenge.
-The Hong Kong programme helps researchers "look at the (microblogging) impact on Chinese society", lead researcher and journalism professor Fu King-wa told AFP.
-The study showed posts including names such as disgraced Chongqing Communist Party boss Bo Xilai and dissident Chen Guangcheng, who left China for the US in May after fleeing house arrest, had been frequently deleted in the past few months.
-Fu said the programme can currently only show a "small snapshot of the whole universe of Sina Weibo", since it is only tracking 300,000 users who have more than 1,000 followers out of 300 million Weibo users.
-The programme downloads the posts of these users throughout the day and identifies the censored posts by comparing their profile from time to time. Posts censored by the authorities will show up with a "permission denied" message.
-Fu expressed hope that the programme would soon cover more of Weibo's user base.
-Chinese authorities announced plans earlier this month to tighten control of microblogs, including making its users register with their real names.

@@ -1,5 +1,0 @@
-THESE days, specifications and aesthetics are not the only areas that smartphone makers compete in - some go the extra mile for that "wow" factor.
-NTT DoCoMo recently unveiled a transparent-touchscreen prototype smartphone that will be operable from both sides of the screen, gadget blog Ubergizmo reported.
-The see-through screen allows multitouch gestures on both the front and the back of the display.
-This would enable "more accurate and more complex gestures", as shown in a demonstration of a Rubik's Cube app, according to Ubergizmo.
-One shortcoming of such a screen, however, is that when used outdoors in the sunlight, viewing could become a challenge.

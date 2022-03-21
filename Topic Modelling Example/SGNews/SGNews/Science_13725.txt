@@ -1,9 +1,0 @@
-SYDNEY - Australia's air safety watchdog warned Friday of the potential dangers of lithium battery-powered devices after an iPhone that had undergone unauthorised repairs started smouldering on a flight to Sydney.
-In the incident last November on Australian carrier Regional Express a crew member used a fire extinguisher on a passenger's phone that began overheating and giving off smoke in the cabin.
-An investigation by the Australian Transport and Safety Bureau (ATSB) found that a small metal screw had been misplaced in the phone's battery bay.
-The stray screw punctured the battery casing, causing an internal short circuit that led to overheating, which increased as the battery reacted and began to break down.
-It found that an "unauthorised repair facility" had failed to exercise appropriate quality control on the iPhone when it was being fixed.
-The ATSB said passengers should be aware of the safety measures related to flying with lithium battery-powered devices.
-"When travelling with mobile phones, laptops and other portable electronic devices, or just their batteries, passengers should, wherever possible, carry them in the cabin, and not in checked-in baggage," it said.
-"The incident also highlights the importance of good maintenance and repair processes for these devices, and the risk of using non-authorised repair agents."
-The report did not say if the danger was limited to travelling in pressurised air cabins but said there was no previous record in the ATSB's databases of a similar incident happening on an aircraft in Australia.

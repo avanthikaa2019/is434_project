@@ -1,7 +1,0 @@
-TOKYO - Japan's atomic energy authority and the country's space agency Tuesday announced a joint project to develop a drone to measure radioactivity in the environment after last year's nuclear disaster.
-Japan has been forced to invent or improve systems for measuring radioactive contamination since a 9.0-magnitude quake and tsunami in March 2011 sparked the world's worst nuclear crisis in a generation at the Fukushima atomic plant.
-Remote-controlled helicopters have been used but are not suitable for remote and mountainous territory as they have to fly low and the operator has to be able to see the aircraft, the Japanese Aerospace Exploration Agency (JAXA) said.
-But unmanned aircraft could fly at higher altitudes over potentially contaminated areas, resolving the issue.
-The plan is to develop a 2.6-metre-long aircraft with a 4.2-metre wingspan.
-Radiation from Fukushima, in northeastern Japan, was scattered over a large area and spread as far as several hundred kilometres from the power station by wind and rain.
-Tens of thousands of people were evacuated from their homes around the plant and swathes of the area remain badly polluted. The clean-up is proceeding slowly, amid warnings that some towns could be uninhabitable for three decades.
