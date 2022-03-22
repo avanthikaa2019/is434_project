@@ -1,7 +1,0 @@
-TOKYO - Japanese technology titan NEC has unveiled a gadget that allows users to control their TV, mobile phone or tablet computer using a virtual input device.
-The company said a camera that recognises three-dimensional shapes and their movements will combine with a projector that could show the image of an input device - such as a keyboard - on almost any surface.
-Users can then gesture at the projected image to move an electronic file or play a video, with the movement of their hand relayed back to the device they want to control.
-"With the recent expansion of cloud-based services, information terminals have become increasingly diversified, ranging from PCs to smartphones and tablet devices," a company statement said Tuesday.
-"However, the presentation of information is limited to the displays on such devices, and operation needs to be performed with the use of an input device such as a remote control, mouse or touchscreen.
-"Using this technology, multiple devices can be controlled based on a user's movements, without the use of an input device, producing interfaces that boast more natural interaction."
-NEC said it hoped to develop the technology so that it could be used with devices that do not have displays, including lights and air conditioners, raising the prospect of a home controlled largely by waving.

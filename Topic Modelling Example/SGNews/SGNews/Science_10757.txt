@@ -1,2 +1,0 @@
-The use of Microsoft's Kinect technology extends beyond gaming - it can be used as sensors in a house to keep track of a person's belongings.
-Gadget blog Ubergizmo said that two computer scientists, from the University of Virginia, have developed a system called Kinsight to record locations of items such as keys, wallets, cellphones and remote controls.

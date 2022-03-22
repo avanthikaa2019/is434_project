@@ -1,7 +1,0 @@
-The government-backed research institute Riken is developing a free scaled-down version of its K supercomputer that is able to use the same programs as the original.
-The smaller supercomputer will be available for online access throughout Japan after it is installed at Riken Wako Institute in Wako, Saitama Prefecture, around February.
-Riken is aiming to have the K computer in full operation in September. The 'mini' version will be compatible with K, so they can run the same programs.
-"We'll offer the supercomputer for free as a trial version of K, so people can develop new programs or make adjustments to existing programs," a Riken official said. "So we hope many people use the computer."
-The K computer being used at the Riken Advanced Institute for Computational Science in Kobe performs 10 quadrillion (or one kei in Japanese) calculations per second.
-Highly advanced technology is needed to develop programs for K, which cannot use those developed for other supercomputers. This has led to concern that many people may hesitate to use K, despite wanting to use it to perform calculations for their research.
-The calculation speed of the scaled-down supercomputer will be about one thousandth of K's, almost the same as most supercomputers currently used in the business sector. The supercomputer will be available online, meaning people throughout the country can log into the Internet to access its programs instead of having to travel to Wako.

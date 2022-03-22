@@ -1,7 +1,0 @@
-Scientists succeeded in producing molecular-scale materials capable of carrying two or more substances that could function as carriers of biological species and diagnostic agents.
-A team led by professor Lee Eun-seong of the Catholic University of Korea produced particles comprised of two or more micelles by forming them on a silicate surface.
-A micelle is an aggregate of molecules whose poles have opposing affinity to water.
-The team then removed the micelles from the surface and succeeded in causing them to bind with each other under controlled conditions.
-The results were published in the online edition of the chemistry journal Angewandte Chemie.
-Particles on the scale of nanometers ? one billionth of a meter ? have the potential to be target-specific delivery vehicles for medication. However, their applications have been limited due to the inability to produce particles that can carry more than one substance as currently available nano particles only have one central chamber in which drugs and other substances can be stored.
-According to the Ministry of Education, Science and Technology, Lee's technique has various applications including treating antibiotic resistant bacterial infections and tumors displaying resistance to chemotherapy by storing the treatment drug and substances for suppressing the target's resistance in separate chambers.

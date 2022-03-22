@@ -1,9 +1,0 @@
-WASHINGTON - More smartphones means more Americans are using the devices to get location information or to share their whereabouts with friends, a study showed last Friday.
-A Pew Internet &amp; American Life Project report found 74 per cent of US smartphone owners use the device to get real-time location-based information, and 18 per cent use a geosocial service to "check in" or share their location.
-Over the past year, smartphone ownership among US adults has risen from 35 per cent to 46 per cent, the study noted.
-This means that the overall proportion of US adults who get location-based information has almost doubled over that time period, from 23 per cent in May last year to 41 per cent in February this year.
-The percentage of US adults using geosocial services like Foursquare has likewise risen, from 4 per cent last year to 10 per cent this year.
-"We've watched mobile phones become increasingly entwined in people's everyday activities, and location-based services are an important part of that," report author Kathryn Zickuhr said.
-"Smartphones' geolocation abilities are clearly popular with their users, who can get the information they want exactly when and where they want it."
-The jump in location services has also raised privacy issues and has prompted lawmakers to consider efforts to protect the privacy of people whose location can be tracked.
-The Pew report surveyed more than 2,000 adults last year and again this year and is believed to have a margin of error of 2.3 percentage points.

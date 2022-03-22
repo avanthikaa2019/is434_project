@@ -1,7 +1,0 @@
-Korean scientists succeeded in cutting a damaged strand of DNA with engineered nuclease technology, or a "molecular scissors," without generating mutation.
-The progress in gene editing is expected to help increase the effectiveness of gene therapy which in most cases fails to achieve intended results, said Kim Jin-soo, a chemistry professor at Seoul National University, who led the research.
-His team was able to prevent mutation with a new DNA-cutting enzyme that cuts only one DNA strand entwined with another strand.
-So far, engineered nuclease technology has cut both strands or acted at an unintended spot, which eventually caused mutation.
-"The engineered nuclease technology is a new method that draws attention from scientists as it can regenerate DNA sequence and restore reversed DNA. I expect the new method could be potentially used to cure incurable diseases such as AIDS and hemophilia," said Kim.
-DNA segments carrying genetic information are cut or rearranged due to radiation and other causes. It is usually a cause of incurable disease if a damaged part is not recovered.
-The research findings are published in the online version of Genome Research, a renowned journal on genetics.

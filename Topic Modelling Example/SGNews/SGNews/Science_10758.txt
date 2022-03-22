@@ -1,3 +1,0 @@
-Tiny wireless sensors built into Lego bricks will allow fans to play with their creations within an online game, according to a new concept project by Lego.
-For example, one can build a car, and the Lego BrainBricks app on any smartphone or tablet device will then be able to pick up the wireless signals from the blocks and recreate a virtual version onscreen, said technology-news website Pocket-lint.
-That version can then be incorporated into an online game.
