@@ -33,6 +33,6 @@ g. Topic Sentiment Analysis Power BI - Power BI visualisation to see breakdown o
 ## 4. Twitter Scraping & Pre-processing
 a. IPYNB files - Python code to scrape and pre-process twitter data
 
-## 5. raw twitter data - files containing scraped twitter data
-
-## 6. processed twitter data - filed containing pre-processed twitter data
+## 5. Data Folders
+a. raw twitter data - files containing scraped twitter data
+b. processed twitter data - filed containing pre-processed twitter data
