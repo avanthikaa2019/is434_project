@@ -6,9 +6,9 @@ https://www.youtube.com/watch?v=Xd9w1ZMwaz4
 # Twitter
 
 ## 1. Text Co-occurence
-a. IPYNB - Python code to find frequency of word pairs, create Networkx graphs and save graph to GML file
-b. GML files - GML files for 4 tweet groups (Creator&Media, General, Compilers, Vogue Singapore)
-c. Gephi files - Gephi visualisations from above GML files (Creator&Media, General, Compilers, Vogue Singapore)
+- a. IPYNB - Python code to find frequency of word pairs, create Networkx graphs and save graph to GML file
+- b. GML files - GML files for 4 tweet groups (Creator&Media, General, Compilers, Vogue Singapore)
+- c. Gephi files - Gephi visualisations from above GML files (Creator&Media, General, Compilers, Vogue Singapore)
 
 Gephi Filters - Use the below values for each Gephi file to Filter by Degree Range:
 - Compiler - 16
