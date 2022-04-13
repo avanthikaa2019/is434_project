@@ -73,5 +73,5 @@ https://www.youtube.com/watch?v=Xd9w1ZMwaz4
 - reddit_compiled.gml - GML files for reddit posts/comments
 - reddit_combined - Gephi visualisations from above GML file
   - Gephi Filters - Use the below values for each Gephi file to Filter by:
-    - Degree range : 1-18
-    - Edge weight : 1746 
+    - Degree range : minimum 1
+    - Edge weight : minimum 1750
